@@ -4,7 +4,7 @@ title: About
 ---
 
 <section class="intro">
-  <img class="avatar" src="{{ '/assets/img/profile.svg' | relative_url }}" alt="{{ site.author.name }}">
+  <img class="avatar" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="{{ site.author.name }}">
   <div>
     <h1>{{ site.author.name }}</h1>
     <p class="subtitle">{{ site.author.role }}{% if site.author.affiliation != "" %} @ {{ site.author.affiliation }}{% endif %}</p>
