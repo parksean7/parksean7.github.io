@@ -54,11 +54,9 @@ Three principles emerge from their stories:
 2. **Reducing external dependencies is essential to getting things done.**
 3. **Build systems in which each success makes the next one easier.**
 
-## 1. What Makes a Project Seem Impossible May Not Be the Technology, but the Economics.
+## 1. What Makes a Project Seem Impossible May Not Be the Technology, but the Economics
 
-A project can be **technically feasible and still be economically impossible**. Knowing how to build something is not the same as being able to afford it. Sometimes, the real breakthrough comes not from inventing new technology, but from changing how a project is financed—or what it costs to operate.
-
-When Moses took control of the Triborough Bridge Authority in 1934, construction had stalled amid the Great Depression. The engineering was feasible. The need for a direct connection between Manhattan, Queens, and the Bronx was clear. But New York City, already struggling with its finances, could not readily afford to finish the bridge.
+When Robert Moses took control of the Triborough Bridge Authority in 1934, construction had stalled amid the Great Depression. The need for a direct connection between Manhattan, Queens, and the Bronx was clear, and the engineering was within reach. What New York lacked was the money to finish it.
 
 <!-- essay-visual:triborough-construction:start -->
 <figure class="essay-visual essay-visual--portrait">
@@ -67,15 +65,21 @@ When Moses took control of the Triborough Bridge Authority in 1934, construction
 </figure>
 <!-- essay-visual:triborough-construction:end -->
 
-Rather than relying entirely on the city's limited borrowing capacity, he combined federal construction funding with **bonds backed by future toll revenues**. The bridge would generate income once completed, and investors could lend against that future revenue to help finance its construction. The Triborough Bridge opened in 1936.
+Rather than relying entirely on the city's limited borrowing capacity, Moses combined federal construction funding with bonds backed by future toll revenues. The bridge would generate income once completed, and investors could lend against that future revenue to help finance its construction. The Triborough Bridge opened in 1936.
 
-A bridge was not merely infrastructure. It was **a revenue-generating asset** that could help finance the next piece of infrastructure.
+But Moses saw something more consequential than a completed bridge.
 
-Traditionally, a public authority would issue bonds to build a bridge, collect tolls until the debt was repaid, then transfer the bridge to the city and dissolve. Through carefully drafted legislation, the Triborough Authority gained the power to **refinance its debt and undertake additional projects**. Instead of disappearing once its original bridges were paid for, it could continue borrowing against its revenues and expanding its operations.
+**A bridge was not merely infrastructure. It was a revenue-generating asset that could help finance the next piece of infrastructure.**
 
-In 1946, New York City had only about $150 million in borrowing capacity left before reaching its legal debt limit. The Triborough Authority, by contrast, was estimated to have $360 million in borrowing capacity—more than twice the city's remaining headroom. An agency created to build bridges had acquired greater borrowing flexibility than the government of America's largest city.
+Financing the bridge was one challenge. Building a financial institution that could fund future projects was another.
 
-Moses had not simply found the money to complete one project. He had helped create a financial engine capable of funding an expanding network of infrastructure.
+Under the conventional arrangement, a public authority would issue bonds to build a bridge, collect tolls until the debt was repaid, then transfer the bridge to the city and dissolve. Through carefully drafted legislation, however, the Triborough Authority gained the power to refinance its debt and undertake additional projects. Rather than disappearing after its original work was paid for, it could continue borrowing against its revenues and expanding its operations.
+
+By 1946, New York City had only about $150 million in borrowing capacity left before reaching its legal debt limit. The Triborough Authority, by contrast, was estimated to have $360 million in borrowing capacity—more than twice the city's remaining headroom.
+
+**An agency created to build bridges had acquired greater borrowing flexibility than the government of America's largest city.**
+
+Moses had helped create something more enduring than a single bridge: a financial engine capable of supporting an expanding network of infrastructure.
 
 <!-- essay-visual:borrowing:start -->
 <figure class="essay-visual essay-visual--chart">
@@ -84,15 +88,17 @@ Moses had not simply found the money to complete one project. He had helped crea
 </figure>
 <!-- essay-visual:borrowing:end -->
 
-Decades later, Elon Musk confronted a different economic barrier. By the time SpaceX was founded in 2002, humanity had been launching rockets into orbit for decades. The technology existed. But access to space remained extraordinarily expensive.
+Decades later, Elon Musk confronted a different economic barrier.
 
-The problem was partly built into the industry's economics: rockets were largely disposable. Consider the numbers. A 2018 NASA technical report estimated the Space Shuttle's launch cost at roughly $54,500 per kilogram of payload capacity, compared with Falcon 9's advertised price of approximately $2,720 per kilogram—a twentyfold difference. The comparison was not perfectly like-for-like, and SpaceX had already made major cost reductions before achieving reusability. But it illustrated just how dramatically the economics of reaching orbit could change.
+By the time SpaceX was founded in 2002, humanity had been launching rockets into orbit for decades. Yet access to space remained extraordinarily expensive, partly because rockets were largely disposable.
 
 A rocket's first stage contains sophisticated engines, fuel tanks, and expensive flight hardware. Traditionally, much of that investment was discarded after a single launch.
 
-What if the most expensive part of a rocket didn't have to be built again every time it flew?
+**What if the most expensive part of a rocket didn't have to be built again every time it flew?**
 
-SpaceX set out to recover the first stage, land it vertically, and fly it again. The engineering challenge was formidable. The booster had to survive separation, atmospheric reentry, and a precisely controlled landing. But landing was only half the problem. **Reuse would make economic sense only if refurbishment cost substantially less than building a replacement.** After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
+SpaceX set out to recover the first stage, land it vertically, and fly it again. The engineering challenge was formidable: the booster had to survive separation, atmospheric reentry, and a precisely controlled landing. But landing was only half the problem. Reuse would make economic sense only if refurbishment cost substantially less than building a replacement.
+
+After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
 
 <!-- essay-visual:landing:start -->
 <figure class="essay-visual essay-visual--portrait">
@@ -101,15 +107,15 @@ SpaceX set out to recover the first stage, land it vertically, and fly it again.
 </figure>
 <!-- essay-visual:landing:end -->
 
-Musk estimated that the first stage accounted for roughly 70% of a Falcon 9's launch cost. By 2020, he was citing refurbishment costs of around $1 million per booster and a best-case marginal launch cost of approximately $15 million, excluding overhead. Instead of repeatedly manufacturing its most expensive component, SpaceX could recover it, inspect it, refurbish it, and launch it again. Reusability eventually became routine rather than experimental.
+Musk estimated that the first stage accounted for roughly 70% of the cost of a new Falcon 9 rocket. By 2020, he was citing refurbishment costs of around $1 million per booster and a best-case marginal launch cost of approximately $15 million, excluding overhead. While these were Musk's estimates rather than audited figures, they pointed to the economic advantage of reusing expensive hardware instead of rebuilding it for every mission.
+
+As boosters began flying repeatedly, reuse became part of SpaceX's regular launch operations.
 
 **SpaceX had turned what was once a recurring expense into a reusable asset.**
 
-Moses needed to finance enormous upfront construction costs. Musk needed to reduce the recurring cost of launching rockets.
-
 **One turned future revenues into present financing. The other turned expendable hardware into reusable capital.**
 
-Rather than treating economic constraints as fixed limits, they treated the economics themselves as something that could be redesigned. But changing the economics is only part of the challenge. Even a financially viable project can remain stalled when critical decisions, resources, and capabilities are scattered across organizations with competing priorities.
+Rather than treating economic constraints as fixed limits, they treated the economics themselves as something that could be redesigned.
 
 ## 2. Reducing External Dependencies Is Essential to Getting Things Done.
 
