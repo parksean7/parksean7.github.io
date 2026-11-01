@@ -110,33 +110,35 @@ As boosters began flying repeatedly, reuse became part of SpaceX's regular launc
 
 Rather than treating economic constraints as fixed limits, they treated the economics themselves as something that could be redesigned.
 
-## 2. Reducing External Dependencies Is Essential to Getting Things Done.
+## 2. Reducing External Dependencies Is Essential to Getting Things Done
 
-Making a project economically viable is one thing. Getting it built is another. Even with sufficient funding, a project can grind to a halt when critical decisions lie in someone else's hands. A bridge may depend on approvals from multiple government agencies. A rocket may depend on suppliers whose costs and schedules are beyond its manufacturer's control.
+Making a project economically viable is one thing. Getting it built is another. Even with sufficient funding, progress can stall when critical decisions lie in someone else's hands.
 
-The problem is not always a lack of resources. Sometimes, it is **a lack of control over the decisions that determine how those resources are used**.
+Robert Moses learned this lesson the hard way.
 
-Early in his career, Moses spent years advocating civil service reform in New York. His proposals were meticulously researched, but they threatened the political patronage system that powerful interests depended on. Despite his efforts, the reforms were defeated. The experience taught him that having the right ideas was not enough. Without the authority to implement them, even the most carefully designed plans could go nowhere.
+Early in his career, Moses devoted himself to reforming New York's civil service system. His carefully designed proposals threatened the political patronage networks that controlled government appointments—and were ultimately defeated. The experience taught him that even the best-designed reforms meant little without the power to implement them.
 
-In 1934, he became New York City's Parks Commissioner while also taking control of the Triborough Bridge Authority. Over time, he accumulated leadership positions across multiple agencies responsible for parks, highways, bridges, and public construction. These positions gave him something far more valuable than impressive titles: **the ability to coordinate decisions** that had previously been scattered across different branches of government. Instead of repeatedly negotiating with separate agencies over funding, land acquisition, construction, and operations, Moses could bring many of those decisions under his own direction.
+Moses eventually found a way to overcome this problem through public authorities.
 
-When Moses took charge of New York City's parks in 1934, tens of thousands of federally funded relief workers were already available. Yet much of that labor was being wasted. Crews lacked proper tools, materials, supervision, and clear instructions.
+In 1934, he became New York City's Parks Commissioner while also taking control of the Triborough Bridge Authority. Over time, he accumulated leadership positions across multiple agencies responsible for parks, highways, bridges, and public construction. Decisions that once required negotiations between separate agencies could increasingly be coordinated within the offices Moses himself controlled.
 
-Moses brought in experienced engineers and administrators, reorganized the work, and put the existing workforce to productive use. Within roughly four months, approximately 1,700 park renovation projects had been completed. The workers and much of the funding had already been there. What changed was the organization responsible for turning those resources into results.
+He applied the same instinct for integration to the organization of work itself.
 
-Moses did not simply acquire more resources. He gained the ability to put existing resources to work.
+When Moses took charge of New York City's parks in 1934, tens of thousands of federally funded relief workers were already available. Yet many lacked proper tools, supervision, and clear assignments. Moses brought in experienced administrators and engineers, reorganized the work, and completed approximately 1,700 park renovation projects within months.
 
-Decades later, Elon Musk encountered a different version of the same problem. When Musk first explored entering the space industry, he considered purchasing existing rockets rather than building them from scratch. But the prices he encountered were far higher than he was willing to accept.
+**Moses did not simply acquire more resources. He gained the ability to put existing resources to work.**
 
-He began questioning the economics of the aerospace supply chain itself. In a 2012 interview with WIRED, Musk described calculating the market value of the raw materials in a rocket—aluminum, titanium, copper, and carbon fiber—and finding that they represented only about 2% of its selling price.
+Decades later, Elon Musk encountered a different version of the same problem.
 
-That did not mean the remaining 98% was waste. Rockets require sophisticated engineering, precision manufacturing, extensive testing, and highly specialized labor. But it raised a fundamental question: How much of the cost was truly unavoidable, and how much came from the way the industry was organized?
+When Musk first explored entering the space industry, he considered buying existing rockets. But the prices led him to question the industry's cost structure. In a 2012 interview with *WIRED*, he recalled calculating that the raw materials in a rocket accounted for only about 2% of its selling price.
+
+The remaining cost was not simply waste: rockets require sophisticated engineering, manufacturing, and testing. But the calculation raised a more interesting question: how much of the price reflected unavoidable technical complexity, and how much reflected the way the industry was organized?
 
 Traditional aerospace manufacturing relied on layers of specialized contractors and subcontractors. Each added its own costs, schedules, and contractual requirements. A design change could ripple through multiple companies, turning an engineering decision into a lengthy process of negotiation and coordination.
 
-Rather than outsourcing the development of its most critical systems, it brought much of the design and manufacturing of rocket engines, structures, avionics, and flight software in-house. The contrast with traditional aerospace manufacturing is striking. According to a 2026 estimate by RBC Capital Markets, SpaceX manufactures roughly 90% of its hardware in-house, compared with approximately 40% at Boeing.
+SpaceX took a different approach. By bringing much of the design and manufacturing of rocket engines, structures, avionics, and flight software in-house, it could more closely integrate engineering, production, and testing.
 
-The significance goes beyond avoiding supplier markups. When the people designing a component, manufacturing it, and testing it work within the same organization, **the feedback loop becomes much shorter**. Engineers can identify a problem, revise the design, manufacture a replacement, and test it without waiting for an entire chain of external contractors to respond. This was especially valuable in rocket development, where progress depends on repeated testing and rapid learning from failure.
+**When the people designing a component, manufacturing it, and testing it work within the same organization, the feedback loop becomes much shorter.** Engineers can identify a problem, revise the design, manufacture a replacement, and test it without waiting for an entire chain of external contractors to respond.
 
 <!-- essay-visual:manufacturing:start -->
 <figure class="essay-visual ">
@@ -145,7 +147,11 @@ The significance goes beyond avoiding supplier markups. When the people designin
 </figure>
 <!-- essay-visual:manufacturing:end -->
 
-At Tesla, the challenge was not simply designing a compelling electric car. Scaling production required a battery supply chain capable of growing just as quickly. Rather than waiting for the existing battery industry to expand on its own, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
+The extent of SpaceX's integration is striking. According to a 2026 estimate by RBC Capital Markets, SpaceX manufactures roughly 90% of its hardware in-house, compared with approximately 40% at Boeing, although the companies' product mixes and the precise basis of comparison differ.
+
+But Musk applied the same underlying logic beyond SpaceX.
+
+At Tesla, scaling electric vehicle production required a battery supply chain capable of growing just as quickly. Rather than waiting for the existing battery industry to expand on its own, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
 
 <!-- essay-visual:gigafactory:start -->
 <figure class="essay-visual ">
@@ -154,15 +160,15 @@ At Tesla, the challenge was not simply designing a compelling electric car. Scal
 </figure>
 <!-- essay-visual:gigafactory:end -->
 
-Tesla confronted a similar problem with charging infrastructure. Even a capable electric car would struggle to attract buyers if drivers could not reliably charge it on long journeys. Yet charging providers had limited incentives to build a nationwide network before enough electric cars were on the road. Tesla responded by building its own Supercharger network, reducing its dependence on an infrastructure market that had not yet developed.
+Tesla confronted a different dependency with charging infrastructure. Consumers were reluctant to buy electric cars without reliable charging networks, while charging providers had little incentive to invest before enough electric cars were on the road. Tesla responded by building its own Supercharger network.
 
-Across these businesses, the strategy was not to manufacture everything or eliminate every outside partner. Tesla still relied on Panasonic, just as SpaceX continued to work with specialized suppliers. The goal was more selective: **identify the external dependencies that constrained the entire project**, then bring those capabilities under closer control.
+**The Gigafactory addressed a constraint on how many cars Tesla could produce. The Supercharger network addressed a constraint on how many it could sell.**
 
-Moses consolidated political and administrative authority. Musk integrated engineering, manufacturing, and critical infrastructure. One reorganized the machinery of government; the other reconfigured the boundaries of the firm. Yet both confronted the same underlying problem: their ability to execute depended on decisions made by others.
+Across these businesses, the strategy was not to manufacture everything or eliminate every outside partner. Tesla still relied on Panasonic, just as SpaceX continued to work with specialized suppliers. The goal was more selective: identify the external dependencies that constrained the entire project, then bring those capabilities under closer control.
 
-The real advantage of integration is not simply having more control. It is removing the bottlenecks created when the next critical step depends on someone else's priorities.
+Moses consolidated political and administrative authority. Musk integrated engineering, manufacturing, and critical infrastructure. **One reorganized the machinery of government; the other reconfigured the boundaries of the firm.**
 
-Once an organization can finance its projects and coordinate their execution, the capabilities it builds do not disappear when the first project is completed. They can become the foundation for the next.
+The real advantage of integration is not simply greater control. It is reducing the delays and dependencies that arise when critical decisions are made elsewhere.
 
 ## 3. Build Systems in Which Each Success Makes the Next One Easier.
 
