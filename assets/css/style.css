@@ -10,7 +10,7 @@
   --line: #E7E5E0;          /* Warm Gray: dividers and borders */
   --accent: #243C58;        /* Yankee Navy: links, selected states */
   --accent-hover: #172B43;  /* Darker navy: hover and active */
-  --logo: #0B1744;          /* Logo navy, sampled from the SP icon: home button name */
+  --logo: #0B263F;          /* Logo navy, sampled from the shield logo: home button name */
   --code-bg: color-mix(in srgb, var(--line) 45%, var(--bg));  /* tint of the border color, no new hue */
 
   --sans: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
