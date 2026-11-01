@@ -8,6 +8,19 @@ Live at https://parksean7.github.io/
 
 GitHub Pages builds the `main` branch automatically. Every push to `main` updates the site within a minute or two.
 
+## Editor
+
+Edit posts and upload images at https://parksean7.github.io/admin/ (Sveltia CMS).
+Each save is a commit to `main`, so the site updates a minute or two later.
+
+Sign in with **Sign In with Token**, using a fine-grained GitHub personal access token:
+GitHub → Settings → Developer settings → Fine-grained tokens → Generate new token,
+repository access "Only select repositories" → `parksean7.github.io`,
+permission **Contents: Read and write**. The token stays in your browser only.
+Anyone else can open the page but can't save anything without such a token.
+
+Editor settings live in `admin/config.yml`.
+
 ## Customize
 
 | What | Where |

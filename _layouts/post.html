@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post">
-  <header class="post-header">
+  <header class="post-header" id="post-top">
     <h1>{{ page.title }}</h1>
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
@@ -10,9 +10,61 @@ layout: default
     </p>
   </header>
 
+  {% if page.toc %}
+  <nav class="toc" aria-label="Contents">
+    <p class="toc-title">Contents</p>
+    <ol class="toc-list"></ol>
+  </nav>
+  {% endif %}
+
   <div class="post-content">
     {{ content }}
   </div>
 
   <p class="back"><a href="{{ '/blog/' | relative_url }}">← All posts</a></p>
 </article>
+
+{% if page.toc %}
+<script>
+  // Builds the contents list from the post's "## " headings and highlights
+  // the section currently being read.
+  (function () {
+    var content = document.querySelector('.post-content');
+    var list = document.querySelector('.toc-list');
+    var headings = Array.prototype.slice.call(content.querySelectorAll('h2'));
+    if (!headings.length) { document.querySelector('.toc').remove(); return; }
+
+    var targets = [];
+    // Text before the first heading becomes an "Introduction" entry.
+    if (content.firstElementChild && content.firstElementChild.tagName !== 'H2') {
+      targets.push({ id: 'post-top', label: 'Introduction', el: content.firstElementChild });
+    }
+    headings.forEach(function (h) {
+      targets.push({ id: h.id, label: h.textContent.replace(/\.$/, ''), el: h });
+    });
+
+    var links = targets.map(function (t) {
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = '#' + t.id;
+      a.textContent = t.label;
+      li.appendChild(a);
+      list.appendChild(li);
+      return a;
+    });
+
+    function update() {
+      var current = 0;
+      targets.forEach(function (t, i) {
+        if (t.el.getBoundingClientRect().top < window.innerHeight * 0.3) current = i;
+      });
+      // At the very bottom of the page, the last section is the one being read.
+      if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 2) current = targets.length - 1;
+      links.forEach(function (a, i) { a.classList.toggle('active', i === current); });
+    }
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  })();
+</script>
+{% endif %}

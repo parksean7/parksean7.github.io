@@ -1,0 +1,39 @@
+# Sveltia CMS configuration for https://parksean7.github.io/admin/
+# Docs: https://github.com/sveltia/sveltia-cms
+
+backend:
+  name: github
+  repo: parksean7/parksean7.github.io
+  branch: main
+  commit_messages:
+    create: "Add post: {{slug}}"
+    update: "Update post: {{slug}}"
+    delete: "Delete post: {{slug}}"
+    uploadMedia: "Upload {{path}}"
+    deleteMedia: "Delete {{path}}"
+
+# Uploaded images are stored here and referenced as /assets/img/<file>.
+media_folder: assets/img
+public_folder: /assets/img
+
+site_url: https://parksean7.github.io
+display_url: https://parksean7.github.io
+
+collections:
+  - name: posts
+    label: Blog posts
+    label_singular: Post
+    folder: _posts
+    create: true
+    # Jekyll requires post files named YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{title}} · {{date}}"
+    sortable_fields: [date, title]
+    fields:
+      - { label: Layout, name: layout, widget: hidden, default: post }
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
+      - { label: Tags, name: tags, widget: list, required: false, default: [] }
+      - { label: Show contents sidebar, name: toc, widget: boolean, default: true, hint: "Lists every '## ' heading in a sidebar on the left." }
+      - { label: Enable LaTeX math, name: math, widget: boolean, default: false, required: false }
+      - { label: Body, name: body, widget: markdown }
