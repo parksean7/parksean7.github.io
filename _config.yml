@@ -2,6 +2,9 @@
 # Site settings. Edit these values to make the site yours.
 # ------------------------------------------------------------------
 title: Sean Park
+# Site icon: shown in the browser tab and next to the name at top left.
+# Pick one from /admin/icons/, e.g. "/assets/img/icons/option-1.png". Empty = no icon.
+icon: ""
 description: AI researcher. Writing about machine learning and research.
 url: "https://parksean7.github.io"
 baseurl: ""
