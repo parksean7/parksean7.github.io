@@ -66,7 +66,17 @@
       "rights": "CC0 1.0 Universal Public Domain Dedication",
       "rights_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_record": "https://commons.wikimedia.org/wiki/File:Falcon_9_Flight_20_OG2_first_stage_post-landing_(23273082823).jpg",
-      "description": "Falcon 9 first stage on Landing Zone 1 after its first successful return from an orbital launch, December 21, 2015. Post-landing photograph, not the landing burn."
+      "description": "Falcon 9 first stage on Landing Zone 1 after its first successful return from an orbital launch, December 21, 2015. Post-landing photograph, not the landing burn.",
+      "saved_dimensions": [
+        1350,
+        1800
+      ],
+      "source_dimensions": [
+        1512,
+        2016
+      ],
+      "sha256": "57442e81c18d1c6d3525e2748f89cd759e8cb1f6e39630e732c1b71b5c1c4f18",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
     },
     {
       "file": "spacex-octaweb-hawthorne-2019.jpg",
