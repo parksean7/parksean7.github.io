@@ -1,9 +1,24 @@
-{% comment %} Usage: {% include post-list.html posts=site.posts %} {% endcomment %}
+{% comment %}
+  Usage: {% include post-list.html posts=site.posts %}
+  Posts with `thumbnail:` in their front matter show the image on the left.
+{% endcomment %}
 <ul class="post-list">
   {% for post in include.posts %}
+  {% if post.thumbnail %}
+  <li class="has-thumb">
+    <a class="thumb" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      <img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy">
+    </a>
+    <div class="item-text">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </div>
+  </li>
+  {% else %}
   <li>
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>

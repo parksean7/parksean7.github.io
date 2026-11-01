@@ -9,7 +9,11 @@ permalink: /papers/
 {% if papers and papers.size > 0 %}
 <ul class="paper-list">
   {% for p in papers %}
-  <li class="paper">
+  <li class="paper{% if p.thumbnail %} has-thumb{% endif %}">
+    {% if p.thumbnail %}
+    <div class="thumb"><img src="{{ p.thumbnail | relative_url }}" alt="" loading="lazy"></div>
+    <div class="item-text">
+    {% endif %}
     <div class="paper-title">{{ p.title }}</div>
     <div class="paper-authors">{% capture me %}<strong>{{ site.author.name }}</strong>{% endcapture %}{{ p.authors | replace: site.author.name, me }}</div>
     <div class="paper-venue">{{ p.venue }} {{ p.year }}</div>
@@ -19,6 +23,7 @@ permalink: /papers/
       {% if p.code %}<a href="{{ p.code }}">Code</a>{% endif %}
       {% if p.project %}<a href="{{ p.project }}">Project</a>{% endif %}
     </div>
+    {% if p.thumbnail %}</div>{% endif %}
   </li>
   {% endfor %}
 </ul>

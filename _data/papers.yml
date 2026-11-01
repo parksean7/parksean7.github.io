@@ -10,5 +10,6 @@
 #   arxiv: "2701.00001"                 # optional
 #   code: "https://github.com/..."      # optional
 #   project: ""                         # optional
+#   thumbnail: "/assets/img/thumbnails/example.png"   # optional, shown on the left
 
 []

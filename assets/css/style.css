@@ -118,6 +118,18 @@ h3 { font-size: 1rem; margin: 2rem 0 0.5rem; }
   .post-list li { flex-direction: column; gap: 0; padding: 0.6rem 0; }
 }
 
+/* Thumbnails (posts and papers with `thumbnail:`) */
+.post-list li.has-thumb, .paper.has-thumb { display: flex; flex-direction: row; align-items: center; gap: 1.5rem; }
+.post-list li.has-thumb { padding: 0.9rem 0; }
+.thumb { display: block; flex-shrink: 0; width: 168px; aspect-ratio: 3 / 2; overflow: hidden; border-radius: 3px; background: var(--line); }
+.thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.item-text { min-width: 0; display: flex; flex-direction: column; gap: 0.15rem; }
+.post-list .item-text time { width: auto; padding-top: 0; }
+@media (max-width: 520px) {
+  .post-list li.has-thumb, .paper.has-thumb { gap: 1rem; }
+  .thumb { width: 112px; }
+}
+
 /* Post */
 .post-header { margin-bottom: 2rem; }
 .post-header h1 { margin-bottom: 0.3rem; }
