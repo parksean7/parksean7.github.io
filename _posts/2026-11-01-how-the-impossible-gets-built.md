@@ -120,6 +120,12 @@ Early in his career, Moses devoted himself to reforming New York's civil service
 
 Moses eventually found a way to overcome this problem through public authorities.
 
+<!-- essay-visual:moses-integration:start -->
+<figure class="essay-visual essay-visual--chart">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/moses-integration-diagram.svg' | relative_url }}" aria-label="Open full-size diagram"><img src="{{ '/assets/img/how-the-impossible-gets-built/moses-integration-diagram.svg' | relative_url }}" alt="Diagram of Moses’s consolidation of political and administrative authority." loading="lazy" decoding="async"></a>
+</figure>
+<!-- essay-visual:moses-integration:end -->
+
 In 1934, he became New York City's Parks Commissioner while also taking control of the Triborough Bridge Authority. Over time, he accumulated leadership positions across multiple agencies responsible for parks, highways, bridges, and public construction. Decisions that once required negotiations between separate agencies could increasingly be coordinated within the offices Moses himself controlled.
 
 He applied the same instinct for integration to the organization of work itself.
@@ -134,6 +140,12 @@ When Musk first explored entering the space industry, he considered buying exist
 
 The remaining cost was not simply waste: rockets require sophisticated engineering, manufacturing, and testing. But the calculation raised a more interesting question: how much of the price reflected unavoidable technical complexity, and how much reflected the way the industry was organized?
 
+<!-- essay-visual:spacex-integration:start -->
+<figure class="essay-visual essay-visual--chart">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/spacex-integration-diagram.svg' | relative_url }}" aria-label="Open full-size diagram"><img src="{{ '/assets/img/how-the-impossible-gets-built/spacex-integration-diagram.svg' | relative_url }}" alt="Diagram comparing traditional aerospace contractors with SpaceX’s integrated engineering, manufacturing, and testing." loading="lazy" decoding="async"></a>
+</figure>
+<!-- essay-visual:spacex-integration:end -->
+
 Traditional aerospace manufacturing relied on layers of specialized contractors and subcontractors. Each added its own costs, schedules, and contractual requirements. A design change could ripple through multiple companies, turning an engineering decision into a lengthy process of negotiation and coordination.
 
 SpaceX took a different approach. By bringing much of the design and manufacturing of rocket engines, structures, avionics, and flight software in-house, it could more closely integrate engineering, production, and testing.
@@ -143,6 +155,12 @@ SpaceX took a different approach. By bringing much of the design and manufacturi
 The extent of SpaceX's integration is striking. According to a 2026 estimate by RBC Capital Markets, SpaceX manufactures roughly 90% of its hardware in-house, compared with approximately 40% at Boeing, although the companies' product mixes and the precise basis of comparison differ.
 
 But Musk applied the same underlying logic beyond SpaceX.
+
+<!-- essay-visual:tesla-integration:start -->
+<figure class="essay-visual essay-visual--chart">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/tesla-integration-diagram.svg' | relative_url }}" aria-label="Open full-size diagram"><img src="{{ '/assets/img/how-the-impossible-gets-built/tesla-integration-diagram.svg' | relative_url }}" alt="Diagram of Tesla’s integration of battery production and charging infrastructure." loading="lazy" decoding="async"></a>
+</figure>
+<!-- essay-visual:tesla-integration:end -->
 
 At Tesla, scaling electric vehicle production required a battery supply chain capable of growing just as quickly. Rather than waiting for the existing battery industry to expand on its own, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
 
