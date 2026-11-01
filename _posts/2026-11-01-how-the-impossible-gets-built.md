@@ -58,14 +58,14 @@ Three principles emerge from their stories:
 
 When Robert Moses took control of the Triborough Bridge Authority in 1934, construction had stalled amid the Great Depression. The need for a direct connection between Manhattan, Queens, and the Bronx was clear, and the engineering was within reach. What New York lacked was the money to finish it.
 
-<!-- essay-visual:triborough-construction:start -->
-<figure class="essay-visual essay-visual--portrait">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/triborough-construction-1934.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/triborough-construction-1934.jpg' | relative_url }}" alt="A crane lifts part of the Triborough Bridge Queens tower into place on October 1, 1934." loading="lazy" decoding="async"></a>
-  <figcaption>Triborough Bridge under construction, 1934. <a href="https://www.flickr.com/photos/mtaphotos/52790718242/">MTA Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; resized.</figcaption>
-</figure>
-<!-- essay-visual:triborough-construction:end -->
-
 Rather than relying entirely on the city's limited borrowing capacity, Moses combined federal construction funding with bonds backed by future toll revenues. The bridge would generate income once completed, and investors could lend against that future revenue to help finance its construction. The Triborough Bridge opened in 1936.
+
+<!-- essay-visual:triborough-1937:start -->
+<figure class="essay-visual">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/triborough-125th-street-1937.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/triborough-125th-street-1937.jpg' | relative_url }}" alt="The Manhattan approach to the Triborough Bridge at 125th Street, photographed on March 11, 1937." loading="lazy" decoding="async"></a>
+  <figcaption>Triborough Bridge at 125th Street, Manhattan, March 11, 1937. Photographer unknown. NYC Municipal Archives, Department of Bridges/Plant &amp; Structures collection.</figcaption>
+</figure>
+<!-- essay-visual:triborough-1937:end -->
 
 But Moses saw something more consequential than a completed bridge.
 
@@ -81,13 +81,6 @@ By 1946, New York City had only about $150 million in borrowing capacity left be
 
 Moses had helped create something more enduring than a single bridge: a financial engine capable of supporting an expanding network of infrastructure.
 
-<!-- essay-visual:borrowing:start -->
-<figure class="essay-visual essay-visual--chart">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/borrowing-capacity-1946.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/borrowing-capacity-1946.svg' | relative_url }}" alt="1946 borrowing capacity: New York City approximately $150 million of remaining legal debt headroom; Triborough Authority estimated $360 million. Nominal US dollars." loading="lazy" decoding="async"></a>
-  <figcaption>NYC’s remaining debt headroom vs. Triborough’s estimated borrowing capacity, 1946 (nominal US$). Author’s chart; <a href="https://www.dwarkesh.com/p/lessons-in-power">Patel, after Caro</a>.</figcaption>
-</figure>
-<!-- essay-visual:borrowing:end -->
-
 Decades later, Elon Musk confronted a different economic barrier.
 
 By the time SpaceX was founded in 2002, humanity had been launching rockets into orbit for decades. Yet access to space remained extraordinarily expensive, partly because rockets were largely disposable.
@@ -98,14 +91,14 @@ A rocket's first stage contains sophisticated engines, fuel tanks, and expensive
 
 SpaceX set out to recover the first stage, land it vertically, and fly it again. The engineering challenge was formidable: the booster had to survive separation, atmospheric reentry, and a precisely controlled landing. But landing was only half the problem. Reuse would make economic sense only if refurbishment cost substantially less than building a replacement.
 
-After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
-
-<!-- essay-visual:landing:start -->
-<figure class="essay-visual essay-visual--portrait">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon9-first-landing-2015.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon9-first-landing-2015.jpg' | relative_url }}" alt="The Falcon 9 first stage stands on Landing Zone 1 after its first successful return from an orbital launch on December 21, 2015." loading="lazy" decoding="async"></a>
-  <figcaption>Falcon 9 after its first successful landing, 2015. <a href="https://www.flickr.com/photos/spacexphotos/23273082823/">SpaceX</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>.</figcaption>
+<!-- essay-visual:falcon9-landing:start -->
+<figure class="essay-visual">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon9-ground-landing-2015.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon9-ground-landing-2015.jpg' | relative_url }}" alt="A Falcon 9 first stage descends toward the landing pad during its first successful landing on December 21, 2015." loading="lazy" decoding="async"></a>
+  <figcaption>Falcon 9’s first successful landing, December 21, 2015. Photo: SpaceX, via <a href="https://www.wired.com/2016/07/watch-spacex-attempt-second-ground-landing/">WIRED</a>.</figcaption>
 </figure>
-<!-- essay-visual:landing:end -->
+<!-- essay-visual:falcon9-landing:end -->
+
+After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
 
 Musk estimated that the first stage accounted for roughly 70% of the cost of a new Falcon 9 rocket. By 2020, he was citing refurbishment costs of around $1 million per booster and a best-case marginal launch cost of approximately $15 million, excluding overhead. While these were Musk's estimates rather than audited figures, they pointed to the economic advantage of reusing expensive hardware instead of rebuilding it for every mission.
 
