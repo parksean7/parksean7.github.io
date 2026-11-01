@@ -1,17 +1,159 @@
 {
   "checked_on": "2026-11-01",
   "photos": [
-    {"file":"moses-battery-bridge-model-1939.jpg","download":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Robert_Moses_with_Battery_Bridge_model.jpg","source":"https://www.loc.gov/pictures/item/2006675178/","credit":"C. M. Stieglitz / New York World-Telegram and Sun / Library of Congress","rights":"No known copyright restrictions; staff-photographer collection donated with reproduction rights","rights_url":"https://www.loc.gov/rr/print/res/076_nyw.html","description":"Robert Moses beside a model of his proposed, unbuilt Battery Bridge, 1939."},
-    {"file":"triborough-aerial-c1937.jpg","download":"https://live.staticflickr.com/65535/52791506524_a187770676_b.jpg","source":"https://www.flickr.com/photos/mtaphotos/52791506524/","credit":"MTA Bridges and Tunnels Special Archives","rights":"CC BY 2.0","rights_url":"https://creativecommons.org/licenses/by/2.0/","description":"The original Triborough traffic junction, circa 1937."},
-    {"file":"triborough-construction-1934.jpg","download":"https://live.staticflickr.com/65535/52790718242_8463ff0315_b.jpg","source":"https://www.flickr.com/photos/mtaphotos/52790718242/","credit":"MTA Bridges and Tunnels Special Archives","rights":"CC BY 2.0","rights_url":"https://creativecommons.org/licenses/by/2.0/","description":"Queens tower of the Triborough Bridge under construction, October 1, 1934."},
-    {"file":"falcon9-ng20-landing-2024.jpg","download":"https://images-assets.nasa.gov/image/KSC-20240130-PH-KLS01_0111/KSC-20240130-PH-KLS01_0111~orig.JPG","source":"https://images.nasa.gov/details/KSC-20240130-PH-KLS01_0111","credit":"NASA / Kim Shiflett","rights":"NASA government-created imagery; editorial and informational reuse under NASA media guidelines","rights_url":"https://www.nasa.gov/nasa-brand-center/images-and-media/","description":"Falcon 9 returning to Landing Zone 1 after the NG-20 mission, January 30, 2024. This is not the first 2015 landing."},
-    {"file":"spacex-octaweb-hawthorne-2019.jpg","download":"https://live.staticflickr.com/65535/48877377823_ce4cea9200_b.jpg","source":"https://www.flickr.com/photos/nasahqphoto/48877377823/","credit":"NASA / Aubrey Gemignani","rights":"NASA government-created imagery; editorial and informational reuse under NASA media guidelines. Flickr separately displays CC BY-NC-ND 2.0; NASA's own media policy permits editorial use. No crop or compositing.","rights_url":"https://www.nasa.gov/nasa-brand-center/images-and-media/","description":"An Octaweb engine structure at SpaceX's Hawthorne headquarters, October 10, 2019.","official_context":"https://www.nasa.gov/image-article/nasa-administrator-visits-spacex-hq/"},
-    {"file":"tesla-gigafactory-nevada-2019.jpg","download":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Tesla_Gigafactory_1_-_December_2019.jpg","source":"https://commons.wikimedia.org/wiki/File:Tesla_Gigafactory_1_-_December_2019.jpg","credit":"Smnt / Wikimedia Commons","rights":"CC BY-SA 4.0","rights_url":"https://creativecommons.org/licenses/by-sa/4.0/","description":"Tesla's Gigafactory Nevada, December 2019. Independently licensed image selected because no adequate official Tesla reuse permission was verified."}
+    {
+      "file": "moses-battery-bridge-model-1939.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Robert_Moses_with_Battery_Bridge_model.jpg",
+      "source": "https://www.loc.gov/pictures/item/2006675178/",
+      "credit": "C. M. Stieglitz / New York World-Telegram and Sun / Library of Congress",
+      "rights": "No known copyright restrictions; staff-photographer collection donated with reproduction rights",
+      "rights_url": "https://www.loc.gov/rr/print/res/076_nyw.html",
+      "description": "Robert Moses beside a model of his proposed, unbuilt Battery Bridge, 1939.",
+      "saved_dimensions": [
+        1600,
+        1678
+      ],
+      "source_dimensions": [
+        1971,
+        2067
+      ],
+      "sha256": "4044a35f53070454825e789b3f050d18ab3111d160f470f0fdb645251ca820c7",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    },
+    {
+      "file": "triborough-aerial-c1937.jpg",
+      "download": "https://live.staticflickr.com/65535/52791506524_a187770676_b.jpg",
+      "source": "https://www.flickr.com/photos/mtaphotos/52791506524/",
+      "credit": "MTA Bridges and Tunnels Special Archives",
+      "rights": "CC BY 2.0",
+      "rights_url": "https://creativecommons.org/licenses/by/2.0/",
+      "description": "The original Triborough traffic junction, circa 1937.",
+      "saved_dimensions": [
+        1024,
+        791
+      ],
+      "source_dimensions": [
+        1024,
+        791
+      ],
+      "sha256": "624881d473be025416a6fb95694731d39e3445e15e874f145839e1c3f790e570",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    },
+    {
+      "file": "triborough-construction-1934.jpg",
+      "download": "https://live.staticflickr.com/65535/52790718242_8463ff0315_b.jpg",
+      "source": "https://www.flickr.com/photos/mtaphotos/52790718242/",
+      "credit": "MTA Bridges and Tunnels Special Archives",
+      "rights": "CC BY 2.0",
+      "rights_url": "https://creativecommons.org/licenses/by/2.0/",
+      "description": "Queens tower of the Triborough Bridge under construction, October 1, 1934.",
+      "saved_dimensions": [
+        801,
+        1024
+      ],
+      "source_dimensions": [
+        801,
+        1024
+      ],
+      "sha256": "d76a00dc292568a82e656431688aaa09d10da7000a9c8ccebdf69aa140ba1fdb",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    },
+    {
+      "file": "falcon9-ng20-landing-2024.jpg",
+      "download": "https://images-assets.nasa.gov/image/KSC-20240130-PH-KLS01_0111/KSC-20240130-PH-KLS01_0111~orig.JPG",
+      "source": "https://images.nasa.gov/details/KSC-20240130-PH-KLS01_0111",
+      "credit": "NASA / Kim Shiflett",
+      "rights": "NASA government-created imagery; editorial and informational reuse under NASA media guidelines",
+      "rights_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "description": "Falcon 9 returning to Landing Zone 1 after the NG-20 mission, January 30, 2024. This is not the first 2015 landing.",
+      "saved_dimensions": [
+        1200,
+        1800
+      ],
+      "source_dimensions": [
+        4480,
+        6720
+      ],
+      "sha256": "bbf95720caf83779d7cf228ad9c11b07357e2fe6c9f6aef7d5cf41222e60299f",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    },
+    {
+      "file": "spacex-octaweb-hawthorne-2019.jpg",
+      "download": "https://live.staticflickr.com/65535/48877377823_ce4cea9200_b.jpg",
+      "source": "https://www.flickr.com/photos/nasahqphoto/48877377823/",
+      "credit": "NASA / Aubrey Gemignani",
+      "rights": "NASA government-created imagery; editorial and informational reuse under NASA media guidelines. Flickr separately displays CC BY-NC-ND 2.0; NASA's own media policy permits editorial use. No crop or compositing.",
+      "rights_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "description": "An Octaweb engine structure at SpaceX's Hawthorne headquarters, October 10, 2019.",
+      "official_context": "https://www.nasa.gov/image-article/nasa-administrator-visits-spacex-hq/",
+      "saved_dimensions": [
+        1023,
+        681
+      ],
+      "source_dimensions": [
+        1023,
+        681
+      ],
+      "sha256": "a3dcba128d6ff2d237c6a4d2f9bdd97c636b78eab5e3f9f3ede7e49c8839bb02",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    },
+    {
+      "file": "tesla-gigafactory-nevada-2019.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tesla_Gigafactory_1_-_December_2019.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Gigafactory_1_-_December_2019.jpg",
+      "credit": "Smnt / Wikimedia Commons",
+      "rights": "CC BY-SA 4.0",
+      "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "description": "Tesla's Gigafactory Nevada, December 2019. Independently licensed image selected because no adequate official Tesla reuse permission was verified.",
+      "saved_dimensions": [
+        1600,
+        999
+      ],
+      "source_dimensions": [
+        2375,
+        1483
+      ],
+      "sha256": "e09fba9e61f8ef1122909750e85cc7a1577df60e3bc1f032f961ca5de123a529",
+      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    }
   ],
   "processing": "Photographs may be proportionally resized and JPEG re-encoded for web delivery; no crop, compositing, or substantive changes. Each retains its original rights. This manifest does not change the essay's license.",
   "charts": {
-    "borrowing-capacity-1946.svg": {"data":[{"entity":"New York City","value":150,"unit":"nominal 1946 USD millions","meaning":"Remaining headroom under the legal municipal debt limit"},{"entity":"Triborough Authority","value":360,"unit":"nominal 1946 USD millions","meaning":"Estimated borrowing capacity"}],"source":"https://www.dwarkesh.com/p/lessons-in-power","underlying_reference":"Robert A. Caro, The Power Broker (1974), as cited in the essay; exact book page not independently checked.","caution":"Neither bar represents cash, expenditure, total debt, nor annual revenue."},
-    "falcon-launch-mix-2025.svg":{"total":165,"internal":122,"customer":43,"unit":"Falcon launches in calendar 2025","internal_share_percent":73.9,"customer_share_percent":26.1,"source":"https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/eu_interviewtranscript06.htm","location":"EU prospectus pp. 119–120, section 5.4.1, footnote (1)","caution":"Customer classification follows the primary payload and its mission requirements. Internal is not relabeled Starlink-only. Excludes Starship. Counts are not revenue or payload mass."},
-    "moses-reinforcing-system.svg":{"type":"Qualitative explanatory diagram","source":"Robert A. Caro, The Power Broker (1974), and the existing essay's political-economy discussion","supporting_source":"https://www.dwarkesh.com/p/lessons-in-power","caution":"Interpretive summary; does not assert that every payment purchased a particular favor."}
+    "borrowing-capacity-1946.svg": {
+      "data": [
+        {
+          "entity": "New York City",
+          "value": 150,
+          "unit": "nominal 1946 USD millions",
+          "meaning": "Remaining headroom under the legal municipal debt limit"
+        },
+        {
+          "entity": "Triborough Authority",
+          "value": 360,
+          "unit": "nominal 1946 USD millions",
+          "meaning": "Estimated borrowing capacity"
+        }
+      ],
+      "source": "https://www.dwarkesh.com/p/lessons-in-power",
+      "underlying_reference": "Robert A. Caro, The Power Broker (1974), as cited in the essay; exact book page not independently checked.",
+      "caution": "Neither bar represents cash, expenditure, total debt, nor annual revenue."
+    },
+    "falcon-launch-mix-2025.svg": {
+      "total": 165,
+      "internal": 122,
+      "customer": 43,
+      "unit": "Falcon launches in calendar 2025",
+      "internal_share_percent": 73.9,
+      "customer_share_percent": 26.1,
+      "source": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/eu_interviewtranscript06.htm",
+      "location": "EU prospectus pp. 119–120, section 5.4.1, footnote (1)",
+      "caution": "Customer classification follows the primary payload and its mission requirements. Internal is not relabeled Starlink-only. Excludes Starship. Counts are not revenue or payload mass."
+    },
+    "moses-reinforcing-system.svg": {
+      "type": "Qualitative explanatory diagram",
+      "source": "Robert A. Caro, The Power Broker (1974), and the existing essay's political-economy discussion",
+      "supporting_source": "https://www.dwarkesh.com/p/lessons-in-power",
+      "caution": "Interpretive summary; does not assert that every payment purchased a particular favor."
+    }
   }
 }
