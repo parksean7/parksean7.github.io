@@ -2,13 +2,11 @@
 
 A minimal Jekyll site with three pages: About, Blog, Papers. GitHub Pages builds it automatically, so no CI setup is needed.
 
-Live at https://parksean7.github.io/seanpark/
+Live at https://parksean7.github.io/
 
 ## Deploy
 
 GitHub Pages builds the `main` branch automatically. Every push to `main` updates the site within a minute or two.
-
-To serve it from `https://parksean7.github.io/` instead, rename the repo to `parksean7.github.io` and set `baseurl: ""` in `_config.yml`.
 
 ## Customize
 
@@ -39,7 +37,7 @@ $$
 ```
 
 Commit and push. Images can go in `assets/img/` and be referenced as
-`![alt]({{ '/assets/img/figure.png' | relative_url }})` so the path works under the `/seanpark` base URL.
+`![alt](/assets/img/figure.png)`.
 
 ## Add a paper
 

@@ -12,13 +12,9 @@ title: About
   </div>
 </section>
 
-Hi! I'm a graduate student working on **machine learning**. My research interests include
-representation learning, large language models, and *[your topic here]*.
-
-Before this, I studied [your background] at [your previous school]. I write here about
-papers I'm reading, ideas I'm exploring, and things I've learned along the way.
-
-Replace this text in `index.md` with your own introduction.
+Hi, I'm Sean. I studied Electrical and Computer Engineering at Seoul National University
+and will begin my MS/PhD in AI next year. I write here about ideas I'm exploring
+and things I've learned along the way.
 
 ## Recent posts
 

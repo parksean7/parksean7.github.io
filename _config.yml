@@ -4,14 +4,14 @@
 title: Sean Park
 description: AI researcher. Writing about machine learning and research.
 url: "https://parksean7.github.io"
-baseurl: "/seanpark"   # repo name; set to "" if you rename the repo to parksean7.github.io
+baseurl: ""
 
 author:
   name: Sean Park
-  role: MS/PhD Student in Artificial Intelligence
-  affiliation: ""    # e.g. "Your University"
+  role: B.S. in Electrical and Computer Engineering
+  affiliation: Seoul National University
   # Leave any of these empty ("") to hide the link.
-  email: ""
+  email: parksean7@snu.ac.kr
   github: parksean7
   scholar: ""        # Google Scholar user id, e.g. "AbCdEfGhIjK"
   twitter: ""        # handle without @
