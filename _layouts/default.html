@@ -9,10 +9,11 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400&display=swap">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  {% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
-  {% if site.icon and site.icon != "" %}
-  <link rel="icon" href="{{ site.icon | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ site.icon | relative_url }}">
+  {% comment %} Site icon: the image in assets/img/icons/ (any file name). {% endcomment %}
+  {% assign site_icon = site.static_files | where_exp: "f", "f.path contains '/assets/img/icons/'" | first %}
+  {% if site_icon %}
+  <link rel="icon" href="{{ site_icon.path | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ site_icon.path | relative_url }}">
   {% endif %}
   {% if page.math %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
@@ -28,7 +29,7 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="site-title" href="{{ '/' | relative_url }}">{% if site.icon and site.icon != "" %}<img class="site-icon" src="{{ site.icon | relative_url }}" alt="">{% endif %}<span>{{ site.author.name }}</span></a>
+    <a class="site-title" href="{{ '/' | relative_url }}">{% if site_icon %}<img class="site-icon" src="{{ site_icon.path | relative_url }}" alt="">{% endif %}<span>{{ site.author.name }}</span></a>
     <nav>
       {% assign path = page.url %}
       <a href="{{ '/' | relative_url }}" {% if path == '/' %}class="active"{% endif %}>About</a>
@@ -44,27 +45,5 @@
   <footer class="site-footer">
     © {{ 'now' | date: '%Y' }} {{ site.author.name }} · <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
   </footer>
-
-  <script>
-    // Icon trial mode, switched on from /admin/icons/. Only affects this browser.
-    (function () {
-      var src = localStorage.getItem('iconPreview');
-      if (!src) return;
-      document.querySelectorAll('link[rel="icon"], link[rel="apple-touch-icon"]').forEach(function (l) { l.remove(); });
-      var link = document.createElement('link');
-      link.rel = 'icon'; link.href = src;
-      document.head.appendChild(link);
-      var title = document.querySelector('.site-title');
-      var img = title.querySelector('.site-icon');
-      if (!img) { img = document.createElement('img'); img.className = 'site-icon'; img.alt = ''; title.prepend(img); }
-      img.src = src;
-      var note = document.createElement('p');
-      note.className = 'icon-trial-note';
-      note.innerHTML = 'Trying icon <code></code> · <a href="#">stop</a>';
-      note.querySelector('code').textContent = src.split('/').pop();
-      note.querySelector('a').onclick = function (e) { e.preventDefault(); localStorage.removeItem('iconPreview'); location.reload(); };
-      document.querySelector('.site-footer').appendChild(note);
-    })();
-  </script>
 </body>
 </html>

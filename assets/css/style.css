@@ -69,7 +69,6 @@ h3 { font-size: 1rem; margin: 2rem 0 0.5rem; }
 .site-title, .site-title:hover { color: var(--text); font-weight: 600; text-decoration: none; }
 .site-title { display: inline-flex; align-items: center; gap: 0.5rem; }
 .site-icon { display: block; width: 22px; height: 22px; object-fit: contain; }
-.icon-trial-note { margin: 0.5rem 0 0; }
 .site-header nav a { color: var(--muted); margin-left: 1.25rem; }
 .site-header nav a:first-child { margin-left: 0; }
 .site-header nav a.active { color: var(--accent); }
