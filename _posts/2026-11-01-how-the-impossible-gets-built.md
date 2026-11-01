@@ -4,6 +4,7 @@ title: "How the Impossible Gets Built"
 date: 2026-11-01
 tags: []
 toc: true
+thumbnail: /assets/img/thumbnails/how-the-impossible-gets-built.jpg
 ---
 
 In the early twentieth century, New York City faced a curious paradox. One of the wealthiest and most dynamic cities in the world, New York repeatedly struggled to build the public infrastructure its people desperately needed. Its population was booming, traffic congestion was worsening, and public spaces were increasingly scarce. The need for new bridges, roads, and parks was obvious to everyone.
