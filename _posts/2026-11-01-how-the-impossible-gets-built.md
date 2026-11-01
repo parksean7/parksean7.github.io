@@ -430,4 +430,3 @@ When we look at a bridge, a rocket, or a satellite network, we tend to see the f
 And perhaps the most consequential achievement is not the finished project at all, but the capacity it leaves behind.
 
 The real question is not simply how to build the impossible, but how to build a system that makes the impossible possible again and again.
-
