@@ -140,25 +140,11 @@ SpaceX took a different approach. By bringing much of the design and manufacturi
 
 **When the people designing a component, manufacturing it, and testing it work within the same organization, the feedback loop becomes much shorter.** Engineers can identify a problem, revise the design, manufacture a replacement, and test it without waiting for an entire chain of external contractors to respond.
 
-<!-- essay-visual:manufacturing:start -->
-<figure class="essay-visual ">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/spacex-octaweb-hawthorne-2019.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/spacex-octaweb-hawthorne-2019.jpg' | relative_url }}" alt="SpaceX propulsion engineers and NASA officials examine an Octaweb engine structure at SpaceX headquarters in Hawthorne, California, in October 2019." loading="lazy" decoding="async"></a>
-  <figcaption>SpaceX’s Hawthorne headquarters, 2019. <a href="https://www.flickr.com/photos/nasahqphoto/48877377823/">NASA / Aubrey Gemignani</a>.</figcaption>
-</figure>
-<!-- essay-visual:manufacturing:end -->
-
 The extent of SpaceX's integration is striking. According to a 2026 estimate by RBC Capital Markets, SpaceX manufactures roughly 90% of its hardware in-house, compared with approximately 40% at Boeing, although the companies' product mixes and the precise basis of comparison differ.
 
 But Musk applied the same underlying logic beyond SpaceX.
 
 At Tesla, scaling electric vehicle production required a battery supply chain capable of growing just as quickly. Rather than waiting for the existing battery industry to expand on its own, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
-
-<!-- essay-visual:gigafactory:start -->
-<figure class="essay-visual ">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/tesla-gigafactory-nevada-2019.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/tesla-gigafactory-nevada-2019.jpg' | relative_url }}" alt="Aerial photograph of Tesla Gigafactory Nevada in December 2019." loading="lazy" decoding="async"></a>
-  <figcaption>Gigafactory Nevada, 2019. <a href="https://commons.wikimedia.org/wiki/File:Tesla_Gigafactory_1_-_December_2019.jpg">Smnt</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; resized.</figcaption>
-</figure>
-<!-- essay-visual:gigafactory:end -->
 
 Tesla confronted a different dependency with charging infrastructure. Consumers were reluctant to buy electric cars without reliable charging networks, while charging providers had little incentive to invest before enough electric cars were on the road. Tesla responded by building its own Supercharger network.
 
