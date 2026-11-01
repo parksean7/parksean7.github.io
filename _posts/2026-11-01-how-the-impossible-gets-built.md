@@ -20,7 +20,7 @@ The greatest barriers to ambitious projects, in other words, were not always tec
 
 <!-- essay-visual:moses-portrait:start -->
 <figure class="essay-visual">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/robert-moses-east-river-1959.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/robert-moses-east-river-1959.jpg' | relative_url }}" alt="Robert Moses standing on a steel beam above the East River, photographed by Arnold Newman in 1959." loading="lazy" decoding="async"></a>
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/robert-moses-east-river-1959.jpg' | relative_url }}" aria-label="Open full-size image"><img style="width: 100%; height: auto; max-height: none;" src="{{ '/assets/img/how-the-impossible-gets-built/robert-moses-east-river-1959.jpg' | relative_url }}" alt="Robert Moses standing on a steel beam above the East River, photographed by Arnold Newman in 1959." loading="lazy" decoding="async"></a>
   <figcaption>Robert Moses above the East River, 1959. <a href="https://arnoldnewman.com/Juicebox_folders/Juicebox_portraits_folder/">Arnold Newman</a>.</figcaption>
 </figure>
 <!-- essay-visual:moses-portrait:end -->
