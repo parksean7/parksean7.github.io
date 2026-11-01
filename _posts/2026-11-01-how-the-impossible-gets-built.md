@@ -30,6 +30,16 @@ What set Moses apart was not his mastery of engineering, but his ability to solv
 
 Projects that had languished on drawing boards for decades finally took shape as bridges, highways, and parks.
 
+<!-- essay-visual:introduction:start -->
+<figure class="essay-visual essay-visual--pair">
+  <div class="essay-visual__grid">
+    <div class="essay-visual__panel"><a href="{{ '/assets/img/how-the-impossible-gets-built/moses-battery-bridge-model-1939.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/moses-battery-bridge-model-1939.jpg' | relative_url }}" alt="Robert Moses beside a model of the proposed Battery Bridge in 1939. The proposed bridge was never built." loading="lazy" decoding="async"></a><p class="essay-visual__caption">Robert Moses with his proposed Battery Bridge, 1939. The bridge was never built. <a href="https://www.loc.gov/pictures/item/2006675178/">C. M. Stieglitz / Library of Congress</a>; no known copyright restrictions. Resized.</p></div>
+    <div class="essay-visual__panel"><a href="{{ '/assets/img/how-the-impossible-gets-built/triborough-aerial-c1937.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/triborough-aerial-c1937.jpg' | relative_url }}" alt="Historic aerial view of the original Triborough Bridge traffic junction, circa 1937." loading="lazy" decoding="async"></a><p class="essay-visual__caption">Triborough’s original traffic junction, c. 1937. <a href="https://www.flickr.com/photos/mtaphotos/52791506524/">MTA Bridges and Tunnels Special Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>. Resized.</p></div>
+  </div>
+  <figcaption class="essay-visual__sr-only">Robert Moses and the scale of New York’s infrastructure ambitions.</figcaption>
+</figure>
+<!-- essay-visual:introduction:end -->
+
 Decades later, in entirely different industries, another figure began confronting remarkably similar challenges.
 
 Elon Musk.
@@ -64,6 +74,13 @@ Robert Moses understood this distinction remarkably well.
 
 When Moses took control of the Triborough Bridge Authority in 1934, construction had stalled amid the Great Depression. The engineering was feasible. The need for a direct connection between Manhattan, Queens, and the Bronx was clear. But New York City, already struggling with its finances, could not readily afford to finish the bridge.
 
+<!-- essay-visual:triborough-construction:start -->
+<figure class="essay-visual essay-visual--portrait">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/triborough-construction-1934.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/triborough-construction-1934.jpg' | relative_url }}" alt="A crane lifts part of the Triborough Bridge Queens tower into place on October 1, 1934." loading="lazy" decoding="async"></a>
+  <figcaption>Raising the Queens tower of the Triborough Bridge, October 1, 1934. <a href="https://www.flickr.com/photos/mtaphotos/52790718242/">MTA Bridges and Tunnels Special Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>. Resized.</figcaption>
+</figure>
+<!-- essay-visual:triborough-construction:end -->
+
 Moses found another way.
 
 Rather than relying entirely on the city's limited borrowing capacity, he combined federal construction funding with bonds backed by future toll revenues. The bridge would generate income once completed, and investors could lend against that future revenue to help finance its construction.
@@ -87,6 +104,13 @@ In 1946, New York City had only about $150 million in borrowing capacity left be
 An agency created to build bridges had acquired greater borrowing flexibility than the government of America's largest city.
 
 Moses had not simply found the money to complete one project. He had helped create a financial engine capable of funding an expanding network of infrastructure.
+
+<!-- essay-visual:borrowing:start -->
+<figure class="essay-visual essay-visual--chart">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/borrowing-capacity-1946.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/borrowing-capacity-1946.svg' | relative_url }}" alt="1946 borrowing capacity: New York City approximately $150 million of remaining legal debt headroom; Triborough Authority estimated $360 million. Nominal US dollars." loading="lazy" decoding="async"></a>
+  <figcaption>New York City’s remaining legal debt headroom versus Triborough’s estimated borrowing capacity, 1946. Nominal US dollars; neither measure represents cash or annual revenue. Author’s chart. Source: <a href="https://www.dwarkesh.com/p/lessons-in-power">Dwarkesh Patel’s summary of Caro</a>.</figcaption>
+</figure>
+<!-- essay-visual:borrowing:end -->
 
 Decades later, Elon Musk confronted a different economic barrier.
 
@@ -119,6 +143,13 @@ Instead of repeatedly manufacturing its most expensive component, SpaceX could r
 Reusability eventually became routine rather than experimental.
 
 SpaceX had turned what was once a recurring expense into a reusable asset.
+
+<!-- essay-visual:landing:start -->
+<figure class="essay-visual essay-visual--portrait">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon9-ng20-landing-2024.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon9-ng20-landing-2024.jpg' | relative_url }}" alt="A Falcon 9 booster descends toward Landing Zone 1 following the NG-20 launch on January 30, 2024." loading="lazy" decoding="async"></a>
+  <figcaption>A Falcon 9 booster returns to Landing Zone 1 after NG-20, January 30, 2024—a later example of routine recovery, rather than the first 2015 landing. <a href="https://images.nasa.gov/details/KSC-20240130-PH-KLS01_0111">NASA / Kim Shiflett</a> · <a href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA media guidelines</a>. Resized.</figcaption>
+</figure>
+<!-- essay-visual:landing:end -->
 
 Moses and Musk had confronted different economic constraints.
 
@@ -198,11 +229,25 @@ Engineers can identify a problem, revise the design, manufacture a replacement, 
 
 This was especially valuable in rocket development, where progress depends on repeated testing and rapid learning from failure.
 
+<!-- essay-visual:manufacturing:start -->
+<figure class="essay-visual ">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/spacex-octaweb-hawthorne-2019.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/spacex-octaweb-hawthorne-2019.jpg' | relative_url }}" alt="SpaceX propulsion engineers and NASA officials examine an Octaweb engine structure at SpaceX headquarters in Hawthorne, California, in October 2019." loading="lazy" decoding="async"></a>
+  <figcaption>An Octaweb engine structure at SpaceX’s Hawthorne headquarters, October 10, 2019. <a href="https://www.flickr.com/photos/nasahqphoto/48877377823/">NASA / Aubrey Gemignani</a> · <a href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA media guidelines</a>. Resized; no crop.</figcaption>
+</figure>
+<!-- essay-visual:manufacturing:end -->
+
 And Musk applied the same underlying logic beyond SpaceX.
 
 At Tesla, the challenge was not simply designing a compelling electric car. Scaling production required a battery supply chain capable of growing just as quickly.
 
 Rather than waiting for the existing battery industry to expand on its own, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
+
+<!-- essay-visual:gigafactory:start -->
+<figure class="essay-visual ">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/tesla-gigafactory-nevada-2019.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/tesla-gigafactory-nevada-2019.jpg' | relative_url }}" alt="Aerial photograph of Tesla Gigafactory Nevada in December 2019." loading="lazy" decoding="async"></a>
+  <figcaption>Gigafactory Nevada, December 2019: manufacturing capacity built around a critical supply dependency. <a href="https://commons.wikimedia.org/wiki/File:Tesla_Gigafactory_1_-_December_2019.jpg">Smnt / Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Resized; this image retains that license.</figcaption>
+</figure>
+<!-- essay-visual:gigafactory:end -->
 
 Tesla confronted a similar problem with charging infrastructure.
 
@@ -278,6 +323,13 @@ Over time, the system became increasingly difficult to challenge—not simply be
 
 He had turned the act of building into a means of acquiring the power to build more.
 
+<!-- essay-visual:moses-cycle:start -->
+<figure class="essay-visual essay-visual--chart">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/moses-reinforcing-system.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/moses-reinforcing-system.svg' | relative_url }}" alt="Public works create economic benefits for banks, contractors, labor unions, and politically connected beneficiaries. Their political support helps enable further public works." loading="lazy" decoding="async"></a>
+  <figcaption>Public works give influential beneficiaries a stake in further construction. A qualitative synthesis of the mechanism described in the essay and Robert A. Caro’s <em>The Power Broker</em>; it does not imply that every payment bought a particular favor. Diagram by the author; <a href="https://www.dwarkesh.com/p/lessons-in-power">supporting summary</a>.</figcaption>
+</figure>
+<!-- essay-visual:moses-cycle:end -->
+
 Decades later, Elon Musk built a different kind of self-reinforcing system.
 
 By developing reusable rockets, SpaceX had made frequent launches more economically practical. But lowering launch costs did not automatically guarantee enough customers to sustain a high launch cadence.
@@ -301,6 +353,13 @@ The scale of this relationship became remarkable.
 In 2025, SpaceX conducted 165 Falcon launches. Of those, 122 were internal missions, compared with 43 primarily serving external customers.
 
 Nearly three-quarters of its Falcon launches were therefore driven by its own businesses.
+
+<!-- essay-visual:falcon-mix:start -->
+<figure class="essay-visual essay-visual--chart">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon-launch-mix-2025.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon-launch-mix-2025.svg' | relative_url }}" alt="2025 Falcon launches: 122 internal missions, 73.9 percent, and 43 customer missions, 26.1 percent, out of 165 total." loading="lazy" decoding="async"></a>
+  <figcaption>SpaceX classified 122 of 165 Falcon launches in 2025 as internal (73.9%) and 43 as customer missions (26.1%). Customer classification follows the primary payload and mission requirements. Counts exclude Starship and do not measure revenue or payload mass. Author’s chart. Source: <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/eu_interviewtranscript06.htm">SpaceX EU prospectus, pp. 119–120, filed with the SEC</a>.</figcaption>
+</figure>
+<!-- essay-visual:falcon-mix:end -->
 
 This changed the economics on both sides.
 
@@ -371,3 +430,4 @@ When we look at a bridge, a rocket, or a satellite network, we tend to see the f
 And perhaps the most consequential achievement is not the finished project at all, but the capacity it leaves behind.
 
 The real question is not simply how to build the impossible, but how to build a system that makes the impossible possible again and again.
+
