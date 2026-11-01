@@ -36,7 +36,7 @@ What set Moses apart was not his engineering expertise, but his ability to overc
 </figure>
 <!-- essay-visual:musk-portrait:end -->
 
-Decades later, Elon Musk confronted a different version of the same underlying problem.
+A similar challenge would emerge in a very different industry.
 
 Humanity had been launching rockets into space for decades, and electric vehicles were hardly a new invention. Yet rockets remained extraordinarily expensive to launch, while high battery costs and limited production capacity kept electric cars from reaching the mass market.
 
@@ -81,7 +81,7 @@ By 1946, New York City had only about $150 million in borrowing capacity left be
 
 Moses had helped create something more enduring than a single bridge: a financial engine capable of supporting an expanding network of infrastructure.
 
-Decades later, Elon Musk confronted a different economic barrier.
+The economics of spaceflight presented a different kind of challenge.
 
 By the time SpaceX was founded in 2002, humanity had been launching rockets into orbit for decades. Yet access to space remained extraordinarily expensive, partly because rockets were largely disposable.
 
@@ -134,7 +134,7 @@ When Moses took charge of New York City's parks in 1934, tens of thousands of fe
 
 **Moses did not simply acquire more resources. He gained the ability to put existing resources to work.**
 
-Decades later, Elon Musk encountered a different version of the same problem.
+For Elon Musk, the obstacle lay in the aerospace supply chain.
 
 When Musk first explored entering the space industry, he considered buying existing rockets. But the prices led him to question the industry's cost structure. In a 2012 interview with *WIRED*, he recalled calculating that the raw materials in a rocket accounted for only about 2% of its selling price.
 
@@ -162,7 +162,7 @@ But Musk applied the same underlying logic beyond SpaceX.
 </figure>
 <!-- essay-visual:tesla-integration:end -->
 
-At Tesla, scaling electric vehicle production required a battery supply chain capable of growing just as quickly. Rather than waiting for the existing battery industry to expand on its own, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
+At Tesla, scaling electric vehicle production required a battery supply chain capable of growing just as quickly. To secure the battery capacity it needed, Tesla partnered with Panasonic to build the Gigafactory, bringing cell production and battery-pack manufacturing into a closely coordinated operation.
 
 Tesla confronted a different dependency with charging infrastructure. Consumers were reluctant to buy electric cars without reliable charging networks, while charging providers had little incentive to invest before enough electric cars were on the road. Tesla responded by building its own Supercharger network.
 
@@ -206,7 +206,7 @@ The system reinforced itself. Completed infrastructure generated revenue. Revenu
 
 **He had turned the act of building into a means of acquiring the power to build more.**
 
-Decades later, Elon Musk developed a different kind of self-reinforcing system.
+SpaceX eventually developed a self-reinforcing system of its own.
 
 Reusable rockets made frequent launches more economically practical. But reusability alone did not guarantee enough customers to sustain a high launch cadence. The more often a booster could fly, the more opportunities SpaceX had to spread its hardware costs across multiple missions.
 
@@ -238,24 +238,16 @@ Yet both discovered how to make the results of one project strengthen the system
 
 ## Conclusion: The Architecture of Getting Things Done
 
-What makes an ambitious project impossible? More often than we realize, the answer depends on the assumptions we take for granted: how much something must cost, who must approve it, and which resources are available to build it.
+The stories of Robert Moses and Elon Musk suggest that what makes a project seem impossible is often not the project itself, but the constraints under which we imagine it must be built.
 
-Moses found ways to finance infrastructure that New York could not otherwise afford, consolidated authority that had been scattered across government agencies, and turned completed projects into sources of financial and political influence. Musk challenged the economics of expendable rockets, brought critical engineering and manufacturing capabilities under closer control, and built businesses whose growth reinforced one another.
+Changing the economics makes a project viable. Reducing external dependencies makes it executable. Building a self-reinforcing system makes success repeatable.
 
-Neither eliminated the underlying difficulties. Building bridges still required enormous capital and political cooperation. Launching rockets still demanded extraordinary engineering precision. What changed was the structure of the constraints that had made those undertakings so difficult.
+But Moses's story also reveals a tension at the heart of this approach.
 
-First, change the economics. A project that cannot be financed or operated under one cost structure may become viable under another.
+**The very mechanisms that made Moses so effective at getting things built also made him extraordinarily difficult to hold accountable.** By concentrating financial resources and political influence, he gained the ability to overcome bureaucratic paralysis, but also weakened the mechanisms through which the public could challenge his decisions.
 
-Second, reduce external dependencies. Even a viable project can stall when critical decisions and capabilities remain beyond the reach of those responsible for executing it.
+**Removing obstacles to execution is not always the same as removing obstacles to progress.** Some constraints reflect needless inefficiency. Others protect the interests of people affected by what gets built. The ability to get things done does not, by itself, establish that they should be done.
 
-Third, make success compound. The most consequential projects create more than their intended results. They generate capital, capabilities, relationships, and demand that can make future projects easier to undertake.
+The deeper lesson, then, is not simply that extraordinary projects require extraordinary determination. It is that their success often depends on rethinking the financial, organizational, and institutional structures that make them possible.
 
-**The first makes a project viable. The second makes it executable. The third makes success repeatable.**
-
-Yet Moses's story also reveals a tension at the heart of this approach. The same institutions that allowed him to overcome bureaucratic paralysis eventually made his power extraordinarily difficult to challenge. By concentrating financial resources and political influence, he gained the ability to build at remarkable speed—but also weakened the mechanisms through which the public could question what he chose to build.
-
-Removing obstacles to execution is not always the same as removing obstacles to progress. Some constraints reflect needless inefficiency. Others protect interests that the people driving a project might otherwise overlook. That distinction matters. **The ability to get things done does not, by itself, establish that they should be done.**
-
-When we look at a bridge, a rocket, or a satellite network, we tend to see the finished achievement. What is less visible is the system that made it possible: the financing arrangements, organizational structures, technical capabilities, and relationships that turned an ambitious idea into reality. And perhaps the most consequential achievement is not the finished project at all, but the capacity it leaves behind.
-
-The real question is not simply how to build the impossible, but how to build a system that makes the impossible possible again and again.
+**The real question is not simply how to build the impossible, but how to build a system that makes the impossible possible again and again.**
