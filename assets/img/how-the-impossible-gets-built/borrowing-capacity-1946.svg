@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg role="img" aria-labelledby="title desc" xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="388.8pt" viewBox="0 0 576 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title id="title">Borrowing capacity in 1946</title><desc id="desc">New York City: approximately $150 million of remaining legal borrowing headroom. Triborough Authority: estimated $360 million of borrowing capacity. Nominal 1946 US dollars. These are different institutional measures, not cash balances or total debt.</desc><metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T20:55:27.481365</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 388.8 
+L 576 388.8 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 34.56 215.0064 
+L 205.2 215.0064 
+L 205.2 192.456 
+L 34.56 192.456 
+z
+" clip-path="url(#p60796e5fcb)" style="fill: #b6bfc5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 34.56 314.1504 
+L 444.096 314.1504 
+L 444.096 291.6 
+L 34.56 291.6 
+z
+" clip-path="url(#p60796e5fcb)" style="fill: #28675e"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 34.56 341.3664 
+L 34.56 337.4784 
+" clip-path="url(#p60796e5fcb)" style="fill: none; stroke: #b6bfc5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 148.32 341.3664 
+L 148.32 337.4784 
+" clip-path="url(#p60796e5fcb)" style="fill: none; stroke: #b6bfc5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 262.08 341.3664 
+L 262.08 337.4784 
+" clip-path="url(#p60796e5fcb)" style="fill: none; stroke: #b6bfc5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 375.84 341.3664 
+L 375.84 337.4784 
+" clip-path="url(#p60796e5fcb)" style="fill: none; stroke: #b6bfc5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 489.6 341.3664 
+L 489.6 337.4784 
+" clip-path="url(#p60796e5fcb)" style="fill: none; stroke: #b6bfc5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 34.56 337.4784 
+L 489.6 337.4784 
+" clip-path="url(#p60796e5fcb)" style="fill: none; stroke: #b6bfc5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6972" x="34.56" y="31.686281" transform="rotate(-0 34.56 31.686281)">BORROWING POWER / 1946</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192b35" x="34.56" y="73.092563" transform="rotate(-0 34.56 73.092563)">A separate engine for financing</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6972" x="34.56" y="102.430125" transform="rotate(-0 34.56 102.430125)">Borrowing capacity · nominal US$ millions</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192b35" x="34.56" y="163.029656" transform="rotate(-0 34.56 163.029656)">New York City</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6972" x="34.56" y="182.540681" transform="rotate(-0 34.56 182.540681)">Remaining room below its legal debt limit</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192b35" x="215.568" y="205.408856" transform="rotate(-0 215.568 205.408856)">$150M</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192b35" x="34.56" y="262.173656" transform="rotate(-0 34.56 262.173656)">Triborough Authority</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6972" x="34.56" y="281.684681" transform="rotate(-0 34.56 281.684681)">Estimated borrowing capacity</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #192b35" x="454.464" y="304.552856" transform="rotate(-0 454.464 304.552856)">$360M</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6972" x="34.56" y="352.852838" transform="rotate(-0 34.56 352.852838)">0</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6972" x="148.32" y="352.852838" transform="rotate(-0 148.32 352.852838)">100</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6972" x="262.08" y="352.852838" transform="rotate(-0 262.08 352.852838)">200</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6972" x="375.84" y="352.852838" transform="rotate(-0 375.84 352.852838)">300</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6972" x="489.6" y="352.852838" transform="rotate(-0 489.6 352.852838)">400</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p60796e5fcb">
+   <rect x="0" y="0" width="576" height="388.8"/>
+  </clipPath>
+ </defs>
+</svg>
