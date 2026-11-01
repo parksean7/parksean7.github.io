@@ -1,6 +1,7 @@
 /* Minimal single-column theme with automatic light/dark mode. */
 
 :root {
+  --page-width: 880px;   /* overall page width on desktop */
   --bg: #fdfcfa;
   --text: #222;
   --muted: #777;
@@ -28,7 +29,7 @@ html { font-size: 18px; }
 
 body {
   margin: 0 auto;
-  max-width: 680px;
+  max-width: var(--page-width);
   padding: 3rem 1.5rem;
   background: var(--bg);
   color: var(--text);
@@ -163,12 +164,12 @@ html { scroll-behavior: smooth; }
 .toc-list a.active { color: var(--text); border-left-color: var(--text); font-weight: 500; }
 
 /* On wide screens the contents list sits in the left margin and stays visible. */
-@media (min-width: 1280px) {
+@media (min-width: 1400px) {
   .toc {
     position: fixed;
     top: 9rem;
-    left: calc(50% - 340px - 16rem);
-    width: 13rem;
+    left: calc(50% - var(--page-width) / 2 - 14rem);
+    width: 12rem;
     max-height: calc(100vh - 12rem);
     overflow-y: auto;
     margin: 0;
