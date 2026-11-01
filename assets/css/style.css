@@ -84,16 +84,19 @@ h3 { font-size: 1rem; margin: 2rem 0 0.5rem; }
 .site-footer a:hover { color: var(--accent-hover); }
 
 /* About */
-.intro { display: flex; align-items: flex-end; gap: 1.5rem; margin-bottom: 2rem; }
+/* Photo and text block in one row, text centered against the photo. */
+.intro { display: flex; align-items: center; gap: 2rem; margin-bottom: 2.5rem; }
+.intro > div { min-width: 0; }
 .intro h1 { margin: 0; }
 /* Uncropped photo in its original proportions (1106 × 1422). */
-.avatar { width: 150px; height: auto; flex-shrink: 0; }
+.avatar { display: block; width: 170px; height: auto; flex-shrink: 0; }
 .subtitle { margin: 0.2rem 0; color: var(--muted); font-family: var(--sans); font-size: 0.85rem; }
 .links { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.85rem; }
 .links a { margin-right: 0.9rem; }
 
 @media (max-width: 520px) {
-  .intro { flex-direction: column; align-items: flex-start; }
+  .intro { gap: 1.25rem; margin-bottom: 2rem; }
+  .avatar { width: 110px; }
 }
 
 /* Post list */
