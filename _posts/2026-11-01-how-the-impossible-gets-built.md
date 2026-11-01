@@ -134,6 +134,13 @@ The engineering challenge was formidable. The booster had to survive separation,
 
 After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
 
+<!-- essay-visual:landing:start -->
+<figure class="essay-visual essay-visual--portrait">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon9-first-landing-2015.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon9-first-landing-2015.jpg' | relative_url }}" alt="The Falcon 9 first stage stands on Landing Zone 1 after its first successful return from an orbital launch on December 21, 2015." loading="lazy" decoding="async"></a>
+  <figcaption>The recovered Falcon 9 first stage after its first successful landing, December 21, 2015. Post-landing photograph. <a href="https://www.flickr.com/photos/spacexphotos/23273082823/">SpaceX</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Resized.</figcaption>
+</figure>
+<!-- essay-visual:landing:end -->
+
 The economics began to change.
 
 Musk estimated that the first stage accounted for roughly 70% of a Falcon 9's launch cost. By 2020, he was citing refurbishment costs of around $1 million per booster and a best-case marginal launch cost of approximately $15 million, excluding overhead.
@@ -143,13 +150,6 @@ Instead of repeatedly manufacturing its most expensive component, SpaceX could r
 Reusability eventually became routine rather than experimental.
 
 SpaceX had turned what was once a recurring expense into a reusable asset.
-
-<!-- essay-visual:landing:start -->
-<figure class="essay-visual essay-visual--portrait">
-  <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon9-ng20-landing-2024.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon9-ng20-landing-2024.jpg' | relative_url }}" alt="A Falcon 9 booster descends toward Landing Zone 1 following the NG-20 launch on January 30, 2024." loading="lazy" decoding="async"></a>
-  <figcaption>A Falcon 9 booster returns to Landing Zone 1 after NG-20, January 30, 2024—a later example of routine recovery, rather than the first 2015 landing. <a href="https://images.nasa.gov/details/KSC-20240130-PH-KLS01_0111">NASA / Kim Shiflett</a> · <a href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA media guidelines</a>. Resized.</figcaption>
-</figure>
-<!-- essay-visual:landing:end -->
 
 Moses and Musk had confronted different economic constraints.
 

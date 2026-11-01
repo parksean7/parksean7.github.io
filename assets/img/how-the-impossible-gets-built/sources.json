@@ -59,23 +59,14 @@
       "changes": "Proportional resizing and JPEG re-encoding only; no crop."
     },
     {
-      "file": "falcon9-ng20-landing-2024.jpg",
-      "download": "https://images-assets.nasa.gov/image/KSC-20240130-PH-KLS01_0111/KSC-20240130-PH-KLS01_0111~orig.JPG",
-      "source": "https://images.nasa.gov/details/KSC-20240130-PH-KLS01_0111",
-      "credit": "NASA / Kim Shiflett",
-      "rights": "NASA government-created imagery; editorial and informational reuse under NASA media guidelines",
-      "rights_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "description": "Falcon 9 returning to Landing Zone 1 after the NG-20 mission, January 30, 2024. This is not the first 2015 landing.",
-      "saved_dimensions": [
-        1200,
-        1800
-      ],
-      "source_dimensions": [
-        4480,
-        6720
-      ],
-      "sha256": "bbf95720caf83779d7cf228ad9c11b07357e2fe6c9f6aef7d5cf41222e60299f",
-      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+      "file": "falcon9-first-landing-2015.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/3/39/Falcon_9_Flight_20_OG2_first_stage_post-landing_%2823273082823%29.jpg",
+      "source": "https://www.flickr.com/photos/spacexphotos/23273082823/",
+      "credit": "SpaceX",
+      "rights": "CC0 1.0 Universal Public Domain Dedication",
+      "rights_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_record": "https://commons.wikimedia.org/wiki/File:Falcon_9_Flight_20_OG2_first_stage_post-landing_(23273082823).jpg",
+      "description": "Falcon 9 first stage on Landing Zone 1 after its first successful return from an orbital launch, December 21, 2015. Post-landing photograph, not the landing burn."
     },
     {
       "file": "spacex-octaweb-hawthorne-2019.jpg",
