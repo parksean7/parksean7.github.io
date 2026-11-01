@@ -7,14 +7,15 @@ title: About
   <img class="avatar" src="{{ '/assets/img/profile.svg' | relative_url }}" alt="{{ site.author.name }}">
   <div>
     <h1>{{ site.author.name }}</h1>
-    <p class="subtitle">{{ site.author.role }}{% if site.author.affiliation != "" %} · {{ site.author.affiliation }}{% endif %}</p>
+    <p class="subtitle">{{ site.author.role }}{% if site.author.affiliation != "" %} @ {{ site.author.affiliation }}{% endif %}</p>
     {% include social-links.html %}
   </div>
 </section>
 
-Hi, I'm Sean. I studied Electrical and Computer Engineering at Seoul National University
-and will begin my MS/PhD in AI next year. I write here about ideas I'm exploring
-and things I've learned along the way.
+Hi, I'm Sean. I'm studying Electrical and Computer Engineering at Seoul National University,
+graduating in February 2027 and beginning an MS/PhD in AI in March.
+
+I write about my research, projects, and ideas that help me make sense of the world.
 
 ## Recent posts
 
