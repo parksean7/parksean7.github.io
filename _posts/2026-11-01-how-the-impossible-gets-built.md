@@ -9,35 +9,39 @@ thumbnail: /assets/img/thumbnails/how-the-impossible-gets-built.jpg
 
 In the early twentieth century, New York City faced a curious paradox. One of the wealthiest and most dynamic cities in the world, New York repeatedly struggled to build the public infrastructure its people desperately needed. Its population was booming, traffic congestion was worsening, and public spaces were increasingly scarce. The need for new bridges, roads, and parks was obvious to everyone.
 
-The problem wasn't knowing what needed to be built. It was figuring out how to get it built.
+The problem wasn't knowing what needed to be built. It was **figuring out how to get it built**.
 
-Building even a single bridge required enormous capital. Securing the money was only the beginning: government approvals had to be obtained, land had to be acquired, and competing interests had to be reconciled. Property owners resisted giving up their land. Politicians feared backlash from their constituents. Government agencies operated under different mandates and budgets, and a setback at any stage could bring the entire project to a halt.
+Building even a single bridge required enormous capital, government approvals, and the acquisition of land from often unwilling owners. Each was difficult enough on its own. But the real challenge was that these obstacles were deeply intertwined.
 
-What made these obstacles especially formidable was how deeply intertwined they were. Financing depended on demonstrating a project's economic viability, yet proving that viability often required building the infrastructure first. Acquiring land required political approval, but approval alone did little to resolve opposition from those whose interests were at stake.
+Financing depended on proving a project's economic viability, which often required building it first. Securing government approval meant little if landowners refused to cooperate. **A project could remain stalled even when every individual obstacle seemed solvable.**
 
 Decisions that made perfect sense to each individual stakeholder could collectively prevent projects that would benefit society as a whole. The greatest barriers to ambitious projects, in other words, were not always technological. Financial, legal, political, and organizational constraints could reinforce one another until a project became all but impossible to execute.
+
+<!-- essay-visual:moses-portrait:start -->
+<figure class="essay-visual">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/robert-moses-east-river-1959.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/robert-moses-east-river-1959.jpg' | relative_url }}" alt="Robert Moses standing on a steel beam above the East River, photographed by Arnold Newman in 1959." loading="lazy" decoding="async"></a>
+  <figcaption>Robert Moses above the East River, 1959. <a href="https://arnoldnewman.com/Juicebox_folders/Juicebox_portraits_folder/">Arnold Newman</a>.</figcaption>
+</figure>
+<!-- essay-visual:moses-portrait:end -->
 
 Robert Moses never won a single election, yet he built more than 1,000 kilometers of roads and numerous bridges across the New York metropolitan area, effectively redrawing the map of modern New York.
 
 What set Moses apart was not his mastery of engineering, but his ability to solve problems that had frustrated others for decades. He turned future toll revenues into immediate construction financing, consolidated authority scattered across government agencies, and used the resources and influence gained from one project to make the next possible. Projects that had languished on drawing boards for decades finally took shape as bridges, highways, and parks.
 
-<!-- essay-visual:introduction:start -->
-<figure class="essay-visual essay-visual--pair">
-  <div class="essay-visual__grid">
-    <div class="essay-visual__panel"><a href="{{ '/assets/img/how-the-impossible-gets-built/moses-battery-bridge-model-1939.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/moses-battery-bridge-model-1939.jpg' | relative_url }}" alt="Robert Moses beside a model of the proposed Battery Bridge in 1939. The proposed bridge was never built." loading="lazy" decoding="async"></a><p class="essay-visual__caption">Robert Moses with his proposed Battery Bridge, 1939. The bridge was never built. <a href="https://www.loc.gov/pictures/item/2006675178/">C. M. Stieglitz / Library of Congress</a>; no known copyright restrictions. Resized.</p></div>
-    <div class="essay-visual__panel"><a href="{{ '/assets/img/how-the-impossible-gets-built/triborough-aerial-c1937.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/triborough-aerial-c1937.jpg' | relative_url }}" alt="Historic aerial view of the original Triborough Bridge traffic junction, circa 1937." loading="lazy" decoding="async"></a><p class="essay-visual__caption">Triborough’s original traffic junction, c. 1937. <a href="https://www.flickr.com/photos/mtaphotos/52791506524/">MTA Bridges and Tunnels Special Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>. Resized.</p></div>
-  </div>
-  <figcaption class="essay-visual__sr-only">Robert Moses and the scale of New York’s infrastructure ambitions.</figcaption>
+<!-- essay-visual:musk-portrait:start -->
+<figure class="essay-visual">
+  <a href="{{ '/assets/img/how-the-impossible-gets-built/elon-musk-hyperloop-2017.png' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/elon-musk-hyperloop-2017.png' | relative_url }}" alt="Elon Musk speaking at SpaceX’s Hyperloop Pod Competition in Hawthorne, California, on August 27, 2017." loading="lazy" decoding="async"></a>
+  <figcaption>Elon Musk at SpaceX’s Hyperloop competition, 2017. AP / REX / Shutterstock.</figcaption>
 </figure>
-<!-- essay-visual:introduction:end -->
+<!-- essay-visual:musk-portrait:end -->
 
 Decades later, Elon Musk began confronting remarkably similar challenges in entirely different industries. Humanity had been launching rockets into space for decades. Electric vehicles were hardly a new invention. Yet launching rockets remained extraordinarily expensive, while high battery costs and limited production capacity kept electric cars from reaching the mass market.
 
-The question was no longer simply whether something could be built, but whether it could be built economically, at scale, and over and over again.
+The question was no longer simply whether something could be built, but whether it could be **built economically, at scale, and over and over again**.
 
 SpaceX challenged the economics of expendable rockets by developing reusable launch systems. Tesla focused on bringing down battery and manufacturing costs while scaling up production. SpaceX went a step further by pairing reusable rockets with Starlink, creating a system in which the growth of one business reinforced the competitiveness of the other.
 
-Of course, the obstacles Moses and Musk faced were fundamentally different. Moses had to navigate fragmented political authority and competing interests. Musk confronted greater technological uncertainty, high production costs, and the challenges of scaling complex systems. Yet beneath these differences lies a striking similarity in their approach. Rather than simply throwing more resources at problems within existing constraints, they sought to change the underlying structures that made their projects so difficult in the first place.
+Of course, the obstacles Moses and Musk faced were fundamentally different. Moses had to navigate fragmented political authority and competing interests. Musk confronted greater technological uncertainty, high production costs, and the challenges of scaling complex systems. Yet beneath these differences lies a striking similarity in their approach. Rather than simply throwing more resources at problems within existing constraints, they sought to **change the underlying structures** that made their projects so difficult in the first place.
 
 Three principles emerge from their stories:
 
@@ -49,22 +53,22 @@ Together, these principles offer a way to understand how seemingly impossible pr
 
 ## 1. What Makes a Project Seem Impossible May Not Be the Technology, but the Economics.
 
-A project can be technically feasible and still be economically impossible. Knowing how to build something is not the same as being able to afford it. Sometimes, the real breakthrough comes not from inventing new technology, but from changing how a project is financed—or what it costs to operate.
+A project can be **technically feasible and still be economically impossible**. Knowing how to build something is not the same as being able to afford it. Sometimes, the real breakthrough comes not from inventing new technology, but from changing how a project is financed—or what it costs to operate.
 
 When Moses took control of the Triborough Bridge Authority in 1934, construction had stalled amid the Great Depression. The engineering was feasible. The need for a direct connection between Manhattan, Queens, and the Bronx was clear. But New York City, already struggling with its finances, could not readily afford to finish the bridge.
 
 <!-- essay-visual:triborough-construction:start -->
 <figure class="essay-visual essay-visual--portrait">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/triborough-construction-1934.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/triborough-construction-1934.jpg' | relative_url }}" alt="A crane lifts part of the Triborough Bridge Queens tower into place on October 1, 1934." loading="lazy" decoding="async"></a>
-  <figcaption>Raising the Queens tower of the Triborough Bridge, October 1, 1934. <a href="https://www.flickr.com/photos/mtaphotos/52790718242/">MTA Bridges and Tunnels Special Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>. Resized.</figcaption>
+  <figcaption>Triborough Bridge under construction, 1934. <a href="https://www.flickr.com/photos/mtaphotos/52790718242/">MTA Archives</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; resized.</figcaption>
 </figure>
 <!-- essay-visual:triborough-construction:end -->
 
-Rather than relying entirely on the city's limited borrowing capacity, he combined federal construction funding with bonds backed by future toll revenues. The bridge would generate income once completed, and investors could lend against that future revenue to help finance its construction. The Triborough Bridge opened in 1936.
+Rather than relying entirely on the city's limited borrowing capacity, he combined federal construction funding with **bonds backed by future toll revenues**. The bridge would generate income once completed, and investors could lend against that future revenue to help finance its construction. The Triborough Bridge opened in 1936.
 
-A bridge was not merely infrastructure. It was a revenue-generating asset that could help finance the next piece of infrastructure.
+A bridge was not merely infrastructure. It was **a revenue-generating asset** that could help finance the next piece of infrastructure.
 
-Traditionally, a public authority would issue bonds to build a bridge, collect tolls until the debt was repaid, then transfer the bridge to the city and dissolve. Through carefully drafted legislation, the Triborough Authority gained the power to refinance its debt and undertake additional projects. Instead of disappearing once its original bridges were paid for, it could continue borrowing against its revenues and expanding its operations.
+Traditionally, a public authority would issue bonds to build a bridge, collect tolls until the debt was repaid, then transfer the bridge to the city and dissolve. Through carefully drafted legislation, the Triborough Authority gained the power to **refinance its debt and undertake additional projects**. Instead of disappearing once its original bridges were paid for, it could continue borrowing against its revenues and expanding its operations.
 
 In 1946, New York City had only about $150 million in borrowing capacity left before reaching its legal debt limit. The Triborough Authority, by contrast, was estimated to have $360 million in borrowing capacity—more than twice the city's remaining headroom. An agency created to build bridges had acquired greater borrowing flexibility than the government of America's largest city.
 
@@ -73,7 +77,7 @@ Moses had not simply found the money to complete one project. He had helped crea
 <!-- essay-visual:borrowing:start -->
 <figure class="essay-visual essay-visual--chart">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/borrowing-capacity-1946.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/borrowing-capacity-1946.svg' | relative_url }}" alt="1946 borrowing capacity: New York City approximately $150 million of remaining legal debt headroom; Triborough Authority estimated $360 million. Nominal US dollars." loading="lazy" decoding="async"></a>
-  <figcaption>New York City’s remaining legal debt headroom versus Triborough’s estimated borrowing capacity, 1946. Nominal US dollars; neither measure represents cash or annual revenue. Author’s chart. Source: <a href="https://www.dwarkesh.com/p/lessons-in-power">Dwarkesh Patel’s summary of Caro</a>.</figcaption>
+  <figcaption>NYC’s remaining debt headroom vs. Triborough’s estimated borrowing capacity, 1946 (nominal US$). Author’s chart; <a href="https://www.dwarkesh.com/p/lessons-in-power">Patel, after Caro</a>.</figcaption>
 </figure>
 <!-- essay-visual:borrowing:end -->
 
@@ -85,22 +89,22 @@ A rocket's first stage contains sophisticated engines, fuel tanks, and expensive
 
 What if the most expensive part of a rocket didn't have to be built again every time it flew?
 
-SpaceX set out to recover the first stage, land it vertically, and fly it again. The engineering challenge was formidable. The booster had to survive separation, atmospheric reentry, and a precisely controlled landing. But landing was only half the problem. Reuse would make economic sense only if refurbishment cost substantially less than building a replacement. After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
+SpaceX set out to recover the first stage, land it vertically, and fly it again. The engineering challenge was formidable. The booster had to survive separation, atmospheric reentry, and a precisely controlled landing. But landing was only half the problem. **Reuse would make economic sense only if refurbishment cost substantially less than building a replacement.** After years of testing and failed landing attempts, SpaceX successfully landed a Falcon 9 first stage in 2015 and flew a previously used booster again in 2017.
 
 <!-- essay-visual:landing:start -->
 <figure class="essay-visual essay-visual--portrait">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon9-first-landing-2015.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon9-first-landing-2015.jpg' | relative_url }}" alt="The Falcon 9 first stage stands on Landing Zone 1 after its first successful return from an orbital launch on December 21, 2015." loading="lazy" decoding="async"></a>
-  <figcaption>The recovered Falcon 9 first stage after its first successful landing, December 21, 2015. Post-landing photograph. <a href="https://www.flickr.com/photos/spacexphotos/23273082823/">SpaceX</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Resized.</figcaption>
+  <figcaption>Falcon 9 after its first successful landing, 2015. <a href="https://www.flickr.com/photos/spacexphotos/23273082823/">SpaceX</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>.</figcaption>
 </figure>
 <!-- essay-visual:landing:end -->
 
 Musk estimated that the first stage accounted for roughly 70% of a Falcon 9's launch cost. By 2020, he was citing refurbishment costs of around $1 million per booster and a best-case marginal launch cost of approximately $15 million, excluding overhead. Instead of repeatedly manufacturing its most expensive component, SpaceX could recover it, inspect it, refurbish it, and launch it again. Reusability eventually became routine rather than experimental.
 
-SpaceX had turned what was once a recurring expense into a reusable asset.
+**SpaceX had turned what was once a recurring expense into a reusable asset.**
 
 Moses needed to finance enormous upfront construction costs. Musk needed to reduce the recurring cost of launching rockets.
 
-One turned future revenues into present financing. The other turned expendable hardware into reusable capital.
+**One turned future revenues into present financing. The other turned expendable hardware into reusable capital.**
 
 Rather than treating economic constraints as fixed limits, they treated the economics themselves as something that could be redesigned. But changing the economics is only part of the challenge. Even a financially viable project can remain stalled when critical decisions, resources, and capabilities are scattered across organizations with competing priorities.
 
@@ -108,11 +112,11 @@ Rather than treating economic constraints as fixed limits, they treated the econ
 
 Making a project economically viable is one thing. Getting it built is another. Even with sufficient funding, a project can grind to a halt when critical decisions lie in someone else's hands. A bridge may depend on approvals from multiple government agencies. A rocket may depend on suppliers whose costs and schedules are beyond its manufacturer's control.
 
-The problem is not always a lack of resources. Sometimes, it is a lack of control over the decisions that determine how those resources are used.
+The problem is not always a lack of resources. Sometimes, it is **a lack of control over the decisions that determine how those resources are used**.
 
 Early in his career, Moses spent years advocating civil service reform in New York. His proposals were meticulously researched, but they threatened the political patronage system that powerful interests depended on. Despite his efforts, the reforms were defeated. The experience taught him that having the right ideas was not enough. Without the authority to implement them, even the most carefully designed plans could go nowhere.
 
-In 1934, he became New York City's Parks Commissioner while also taking control of the Triborough Bridge Authority. Over time, he accumulated leadership positions across multiple agencies responsible for parks, highways, bridges, and public construction. These positions gave him something far more valuable than impressive titles: the ability to coordinate decisions that had previously been scattered across different branches of government. Instead of repeatedly negotiating with separate agencies over funding, land acquisition, construction, and operations, Moses could bring many of those decisions under his own direction.
+In 1934, he became New York City's Parks Commissioner while also taking control of the Triborough Bridge Authority. Over time, he accumulated leadership positions across multiple agencies responsible for parks, highways, bridges, and public construction. These positions gave him something far more valuable than impressive titles: **the ability to coordinate decisions** that had previously been scattered across different branches of government. Instead of repeatedly negotiating with separate agencies over funding, land acquisition, construction, and operations, Moses could bring many of those decisions under his own direction.
 
 When Moses took charge of New York City's parks in 1934, tens of thousands of federally funded relief workers were already available. Yet much of that labor was being wasted. Crews lacked proper tools, materials, supervision, and clear instructions.
 
@@ -130,12 +134,12 @@ Traditional aerospace manufacturing relied on layers of specialized contractors 
 
 Rather than outsourcing the development of its most critical systems, it brought much of the design and manufacturing of rocket engines, structures, avionics, and flight software in-house. The contrast with traditional aerospace manufacturing is striking. According to a 2026 estimate by RBC Capital Markets, SpaceX manufactures roughly 90% of its hardware in-house, compared with approximately 40% at Boeing.
 
-The significance goes beyond avoiding supplier markups. When the people designing a component, manufacturing it, and testing it work within the same organization, the feedback loop becomes much shorter. Engineers can identify a problem, revise the design, manufacture a replacement, and test it without waiting for an entire chain of external contractors to respond. This was especially valuable in rocket development, where progress depends on repeated testing and rapid learning from failure.
+The significance goes beyond avoiding supplier markups. When the people designing a component, manufacturing it, and testing it work within the same organization, **the feedback loop becomes much shorter**. Engineers can identify a problem, revise the design, manufacture a replacement, and test it without waiting for an entire chain of external contractors to respond. This was especially valuable in rocket development, where progress depends on repeated testing and rapid learning from failure.
 
 <!-- essay-visual:manufacturing:start -->
 <figure class="essay-visual ">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/spacex-octaweb-hawthorne-2019.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/spacex-octaweb-hawthorne-2019.jpg' | relative_url }}" alt="SpaceX propulsion engineers and NASA officials examine an Octaweb engine structure at SpaceX headquarters in Hawthorne, California, in October 2019." loading="lazy" decoding="async"></a>
-  <figcaption>An Octaweb engine structure at SpaceX’s Hawthorne headquarters, October 10, 2019. <a href="https://www.flickr.com/photos/nasahqphoto/48877377823/">NASA / Aubrey Gemignani</a> · <a href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA media guidelines</a>. Resized; no crop.</figcaption>
+  <figcaption>SpaceX’s Hawthorne headquarters, 2019. <a href="https://www.flickr.com/photos/nasahqphoto/48877377823/">NASA / Aubrey Gemignani</a>.</figcaption>
 </figure>
 <!-- essay-visual:manufacturing:end -->
 
@@ -144,13 +148,13 @@ At Tesla, the challenge was not simply designing a compelling electric car. Scal
 <!-- essay-visual:gigafactory:start -->
 <figure class="essay-visual ">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/tesla-gigafactory-nevada-2019.jpg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/tesla-gigafactory-nevada-2019.jpg' | relative_url }}" alt="Aerial photograph of Tesla Gigafactory Nevada in December 2019." loading="lazy" decoding="async"></a>
-  <figcaption>Gigafactory Nevada, December 2019: manufacturing capacity built around a critical supply dependency. <a href="https://commons.wikimedia.org/wiki/File:Tesla_Gigafactory_1_-_December_2019.jpg">Smnt / Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Resized; this image retains that license.</figcaption>
+  <figcaption>Gigafactory Nevada, 2019. <a href="https://commons.wikimedia.org/wiki/File:Tesla_Gigafactory_1_-_December_2019.jpg">Smnt</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; resized.</figcaption>
 </figure>
 <!-- essay-visual:gigafactory:end -->
 
 Tesla confronted a similar problem with charging infrastructure. Even a capable electric car would struggle to attract buyers if drivers could not reliably charge it on long journeys. Yet charging providers had limited incentives to build a nationwide network before enough electric cars were on the road. Tesla responded by building its own Supercharger network, reducing its dependence on an infrastructure market that had not yet developed.
 
-Across these businesses, the strategy was not to manufacture everything or eliminate every outside partner. Tesla still relied on Panasonic, just as SpaceX continued to work with specialized suppliers. The goal was more selective: identify the external dependencies that constrained the entire project, then bring those capabilities under closer control.
+Across these businesses, the strategy was not to manufacture everything or eliminate every outside partner. Tesla still relied on Panasonic, just as SpaceX continued to work with specialized suppliers. The goal was more selective: **identify the external dependencies that constrained the entire project**, then bring those capabilities under closer control.
 
 Moses consolidated political and administrative authority. Musk integrated engineering, manufacturing, and critical infrastructure. One reorganized the machinery of government; the other reconfigured the boundaries of the firm. Yet both confronted the same underlying problem: their ability to execute depended on decisions made by others.
 
@@ -172,7 +176,7 @@ Robert Caro documents the scale of this arrangement in *The Power Broker*. At on
 
 Moses did not necessarily demand an explicit favor in exchange for every contract. Instead, he cultivated a network in which supporting his projects and benefiting from his spending went hand in hand. Banks that profited from Triborough's financing had reasons to preserve their relationship with Moses. Contractors with expensive equipment and large workforces needed a continuing pipeline of projects. Political leaders benefited from jobs, business opportunities, and visible improvements in their districts.
 
-The more Moses built, the more people had a financial stake in seeing him build again.
+**The more Moses built, the more people had a financial stake in seeing him build again.**
 
 And that support mattered when a project encountered opposition. Influential bankers, contractors, union leaders, and political figures could exert pressure on officials, mobilize support, and help clear the political obstacles that might otherwise have delayed construction.
 
@@ -183,13 +187,13 @@ He had turned the act of building into a means of acquiring the power to build m
 <!-- essay-visual:moses-cycle:start -->
 <figure class="essay-visual essay-visual--chart">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/moses-reinforcing-system.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/moses-reinforcing-system.svg' | relative_url }}" alt="Public works create economic benefits for banks, contractors, labor unions, and politically connected beneficiaries. Their political support helps enable further public works." loading="lazy" decoding="async"></a>
-  <figcaption>Public works give influential beneficiaries a stake in further construction. A qualitative synthesis of the mechanism described in the essay and Robert A. Caro’s <em>The Power Broker</em>; it does not imply that every payment bought a particular favor. Diagram by the author; <a href="https://www.dwarkesh.com/p/lessons-in-power">supporting summary</a>.</figcaption>
+  <figcaption>Moses’s self-reinforcing political economy. Author’s diagram, after <a href="https://www.dwarkesh.com/p/lessons-in-power">Caro</a>.</figcaption>
 </figure>
 <!-- essay-visual:moses-cycle:end -->
 
 Decades later, Elon Musk built a different kind of self-reinforcing system. By developing reusable rockets, SpaceX had made frequent launches more economically practical. But lowering launch costs did not automatically guarantee enough customers to sustain a high launch cadence. The economics of reusability depend in part on how often the hardware flies. A rocket that can be reused many times delivers more value when there is enough demand to keep launching it.
 
-What if SpaceX could generate its own demand for launches? Starlink offered a way to do exactly that.
+**What if SpaceX could generate its own demand for launches?** Starlink offered a way to do exactly that.
 
 Building a global satellite internet network requires launching thousands of satellites, replacing aging spacecraft, and continually expanding capacity. For a company dependent on outside launch providers, that would mean enormous costs and exposure to someone else's launch schedule. SpaceX, however, already had its own rockets. Reusable Falcon 9 boosters made it possible to deploy satellites repeatedly, while Starlink gave SpaceX a large and recurring source of internal launch demand.
 
@@ -198,15 +202,15 @@ In 2025, SpaceX conducted 165 Falcon launches. Of those, 122 were internal missi
 <!-- essay-visual:falcon-mix:start -->
 <figure class="essay-visual essay-visual--chart">
   <a href="{{ '/assets/img/how-the-impossible-gets-built/falcon-launch-mix-2025.svg' | relative_url }}" aria-label="Open full-size image"><img src="{{ '/assets/img/how-the-impossible-gets-built/falcon-launch-mix-2025.svg' | relative_url }}" alt="2025 Falcon launches: 122 internal missions, 73.9 percent, and 43 customer missions, 26.1 percent, out of 165 total." loading="lazy" decoding="async"></a>
-  <figcaption>SpaceX classified 122 of 165 Falcon launches in 2025 as internal (73.9%) and 43 as customer missions (26.1%). Customer classification follows the primary payload and mission requirements. Counts exclude Starship and do not measure revenue or payload mass. Author’s chart. Source: <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/eu_interviewtranscript06.htm">SpaceX EU prospectus, pp. 119–120, filed with the SEC</a>.</figcaption>
+  <figcaption>2025 Falcon launches: 122 internal, 43 customer (165 total; excludes Starship). Author’s chart; <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/eu_interviewtranscript06.htm">SpaceX</a>.</figcaption>
 </figure>
 <!-- essay-visual:falcon-mix:end -->
 
 This changed the economics on both sides. For Starlink, access to SpaceX's launch capacity reduced dependence on external launch providers and supported rapid constellation expansion. For SpaceX's launch business, Starlink created a substantial base of recurring demand, supporting high flight rates, repeated use of boosters, and the accumulation of operational experience. And as Starlink expanded its subscriber base, it created a growing source of service revenue that could support further investment across SpaceX.
 
-SpaceX had not merely found a cheaper way to launch satellites. It had built a business that needed those launches—and could help finance more of them.
+SpaceX had not merely found a cheaper way to launch satellites. It had built **a business that needed those launches**—and could help finance more of them.
 
-Moses used the economic value created by infrastructure to attract the financial and political support needed for further construction. Musk used the capabilities created by one business to make another possible, then used that second business to generate demand and resources for the first. In both cases, the result of one project became an input to the next.
+Moses used the economic value created by infrastructure to attract the financial and political support needed for further construction. Musk used the capabilities created by one business to make another possible, then used that second business to generate demand and resources for the first. In both cases, **the result of one project became an input to the next**.
 
 The most powerful projects do not simply deliver an outcome. They create the resources, relationships, and capabilities that make the next ambitious undertaking possible.
 
@@ -226,11 +230,11 @@ Second, reduce external dependencies. Even a viable project can stall when criti
 
 Third, make success compound. The most consequential projects create more than their intended results. They generate capital, capabilities, relationships, and demand that can make future projects easier to undertake.
 
-The first makes a project viable. The second makes it executable. The third makes success repeatable.
+**The first makes a project viable. The second makes it executable. The third makes success repeatable.**
 
 Yet Moses's story also reveals a tension at the heart of this approach. The same institutions that allowed him to overcome bureaucratic paralysis eventually made his power extraordinarily difficult to challenge. By concentrating financial resources and political influence, he gained the ability to build at remarkable speed—but also weakened the mechanisms through which the public could question what he chose to build.
 
-Removing obstacles to execution is not always the same as removing obstacles to progress. Some constraints reflect needless inefficiency. Others protect interests that the people driving a project might otherwise overlook. That distinction matters. The ability to get things done does not, by itself, establish that they should be done.
+Removing obstacles to execution is not always the same as removing obstacles to progress. Some constraints reflect needless inefficiency. Others protect interests that the people driving a project might otherwise overlook. That distinction matters. **The ability to get things done does not, by itself, establish that they should be done.**
 
 When we look at a bridge, a rocket, or a satellite network, we tend to see the finished achievement. What is less visible is the system that made it possible: the financing arrangements, organizational structures, technical capabilities, and relationships that turned an ambitious idea into reality. And perhaps the most consequential achievement is not the finished project at all, but the capacity it leaves behind.
 

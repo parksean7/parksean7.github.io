@@ -2,44 +2,6 @@
   "checked_on": "2026-11-01",
   "photos": [
     {
-      "file": "moses-battery-bridge-model-1939.jpg",
-      "download": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Robert_Moses_with_Battery_Bridge_model.jpg",
-      "source": "https://www.loc.gov/pictures/item/2006675178/",
-      "credit": "C. M. Stieglitz / New York World-Telegram and Sun / Library of Congress",
-      "rights": "No known copyright restrictions; staff-photographer collection donated with reproduction rights",
-      "rights_url": "https://www.loc.gov/rr/print/res/076_nyw.html",
-      "description": "Robert Moses beside a model of his proposed, unbuilt Battery Bridge, 1939.",
-      "saved_dimensions": [
-        1600,
-        1678
-      ],
-      "source_dimensions": [
-        1971,
-        2067
-      ],
-      "sha256": "4044a35f53070454825e789b3f050d18ab3111d160f470f0fdb645251ca820c7",
-      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
-    },
-    {
-      "file": "triborough-aerial-c1937.jpg",
-      "download": "https://live.staticflickr.com/65535/52791506524_a187770676_b.jpg",
-      "source": "https://www.flickr.com/photos/mtaphotos/52791506524/",
-      "credit": "MTA Bridges and Tunnels Special Archives",
-      "rights": "CC BY 2.0",
-      "rights_url": "https://creativecommons.org/licenses/by/2.0/",
-      "description": "The original Triborough traffic junction, circa 1937.",
-      "saved_dimensions": [
-        1024,
-        791
-      ],
-      "source_dimensions": [
-        1024,
-        791
-      ],
-      "sha256": "624881d473be025416a6fb95694731d39e3445e15e874f145839e1c3f790e570",
-      "changes": "Proportional resizing and JPEG re-encoding only; no crop."
-    },
-    {
       "file": "triborough-construction-1934.jpg",
       "download": "https://live.staticflickr.com/65535/52790718242_8463ff0315_b.jpg",
       "source": "https://www.flickr.com/photos/mtaphotos/52790718242/",
@@ -116,6 +78,33 @@
       ],
       "sha256": "e09fba9e61f8ef1122909750e85cc7a1577df60e3bc1f032f961ca5de123a529",
       "changes": "Proportional resizing and JPEG re-encoding only; no crop."
+    },
+    {
+      "file": "robert-moses-east-river-1959.jpg",
+      "source": "User-provided photograph: 7135447_orig.jpg",
+      "credit": "Arnold Newman",
+      "description": "Robert Moses above the East River, 1959.",
+      "rights": "User-provided copyrighted photograph, included at the user's express direction. No open reuse license or reproduction permission independently verified.",
+      "rights_url": "https://arnoldnewman.com/Juicebox_folders/Juicebox_portraits_folder/",
+      "changes": "Original upload bytes, unchanged.",
+      "sha256": "5abd8172a7ce73b7d11a3f1fcd7b87932af11a72d82d5a674b288eba401ef9eb",
+      "saved_dimensions": [
+        640,
+        448
+      ]
+    },
+    {
+      "file": "elon-musk-hyperloop-2017.png",
+      "source": "User-provided photograph: image(20261101-144028).png",
+      "credit": "AP / REX / Shutterstock (credit supplied by user)",
+      "description": "Elon Musk at SpaceX's Hyperloop Pod Competition II, Hawthorne, August 27, 2017.",
+      "rights": "User-provided agency photograph, included at the user's express direction. No open reuse license or reproduction permission independently verified.",
+      "changes": "Original upload bytes, unchanged.",
+      "sha256": "1a7f0a937a9bd3fca87dc77d537bac57cf5c1d203e11310b4361297af7812d0b",
+      "saved_dimensions": [
+        1200,
+        782
+      ]
     }
   ],
   "processing": "Photographs may be proportionally resized and JPEG re-encoded for web delivery; no crop, compositing, or substantive changes. Each retains its original rights. This manifest does not change the essay's license.",
