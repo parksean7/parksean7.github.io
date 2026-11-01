@@ -14,8 +14,10 @@
   {% comment %} Site icon: the image in assets/img/icons/ (any file name). {% endcomment %}
   {% assign site_icon = site.static_files | where_exp: "f", "f.path contains '/assets/img/icons/'" | first %}
   {% if site_icon %}
-  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}?v={{ v }}" sizes="any">
-  <link rel="icon" type="image/png" href="{{ site_icon.path | relative_url }}?v={{ v }}">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}?v={{ v }}" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}?v={{ v }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}?v={{ v }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site_icon.path | relative_url }}?v={{ v }}">
   <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}?v={{ v }}">
   {% endif %}
   {% if page.math %}
