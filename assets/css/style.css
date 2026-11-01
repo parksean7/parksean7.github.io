@@ -125,8 +125,14 @@ h3 { font-size: 1rem; margin: 2rem 0 0.5rem; }
 .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .item-text { min-width: 0; display: flex; flex-direction: column; gap: 0.15rem; }
 .post-list .item-text time { width: auto; padding-top: 0; }
+
+/* Subtitles (posts and papers with `subtitle:`) */
+.post-subtitle { margin: 0 0 0.6rem; color: var(--muted); font-size: 1.05rem; line-height: 1.5; }
+.item-subtitle { display: block; color: var(--muted); font-size: 0.85rem; line-height: 1.5; }
+.paper .item-subtitle { margin-bottom: 0.1rem; }
 @media (max-width: 520px) {
-  .post-list li.has-thumb, .paper.has-thumb { gap: 1rem; }
+  .post-list li.has-thumb, .paper.has-thumb { gap: 1rem; align-items: flex-start; }
+  .has-thumb .thumb { margin-top: 0.3rem; }
   .thumb { width: 112px; }
 }
 

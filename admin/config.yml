@@ -32,6 +32,7 @@ collections:
     fields:
       - { label: Layout, name: layout, widget: hidden, default: post }
       - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false, hint: "Shown under the title in the post and in post lists." }
       - { label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
       - { label: Thumbnail, name: thumbnail, widget: image, required: false, media_folder: /assets/img/thumbnails, public_folder: /assets/img/thumbnails, hint: "Shown next to the post in the Blog list and on the About page." }
       - { label: Tags, name: tags, widget: list, required: false, default: [] }

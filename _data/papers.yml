@@ -4,6 +4,7 @@
 #
 # - title: "An Example Paper Title"
 #   authors: "Your Name, Coauthor One, Coauthor Two"
+#   subtitle: "One-sentence summary"      # optional, shown under the title
 #   venue: "NeurIPS"
 #   year: 2027
 #   pdf: "/assets/papers/example.pdf"   # optional

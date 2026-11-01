@@ -15,6 +15,7 @@ permalink: /papers/
     <div class="item-text">
     {% endif %}
     <div class="paper-title">{{ p.title }}</div>
+    {% if p.subtitle %}<div class="item-subtitle">{{ p.subtitle }}</div>{% endif %}
     <div class="paper-authors">{% capture me %}<strong>{{ site.author.name }}</strong>{% endcapture %}{{ p.authors | replace: site.author.name, me }}</div>
     <div class="paper-venue">{{ p.venue }} {{ p.year }}</div>
     <div class="paper-links">

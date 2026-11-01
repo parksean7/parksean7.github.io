@@ -1,6 +1,7 @@
 {% comment %}
   Usage: {% include post-list.html posts=site.posts %}
   Posts with `thumbnail:` in their front matter show the image on the left.
+  Posts with `subtitle:` show it under the title.
 {% endcomment %}
 <ul class="post-list">
   {% for post in include.posts %}
@@ -11,13 +12,17 @@
     </a>
     <div class="item-text">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.subtitle %}<span class="item-subtitle">{{ post.subtitle }}</span>{% endif %}
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
     </div>
   </li>
   {% else %}
   <li>
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <div class="item-text">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.subtitle %}<span class="item-subtitle">{{ post.subtitle }}</span>{% endif %}
+    </div>
   </li>
   {% endif %}
   {% endfor %}
