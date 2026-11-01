@@ -1,0 +1,27 @@
+---
+layout: default
+title: Papers
+permalink: /papers/
+---
+<h1>Papers</h1>
+
+{% assign papers = site.data.papers | sort: "year" | reverse %}
+{% if papers and papers.size > 0 %}
+<ul class="paper-list">
+  {% for p in papers %}
+  <li class="paper">
+    <div class="paper-title">{{ p.title }}</div>
+    <div class="paper-authors">{% capture me %}<strong>{{ site.author.name }}</strong>{% endcapture %}{{ p.authors | replace: site.author.name, me }}</div>
+    <div class="paper-venue">{{ p.venue }} {{ p.year }}</div>
+    <div class="paper-links">
+      {% if p.pdf %}<a href="{{ p.pdf }}">PDF</a>{% endif %}
+      {% if p.arxiv %}<a href="https://arxiv.org/abs/{{ p.arxiv }}">arXiv</a>{% endif %}
+      {% if p.code %}<a href="{{ p.code }}">Code</a>{% endif %}
+      {% if p.project %}<a href="{{ p.project }}">Project</a>{% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty">Publications will appear here. Stay tuned.</p>
+{% endif %}

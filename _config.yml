@@ -1,0 +1,36 @@
+# ------------------------------------------------------------------
+# Site settings. Edit these values to make the site yours.
+# ------------------------------------------------------------------
+title: Sean Park
+description: AI researcher. Writing about machine learning and research.
+url: "https://parksean7.github.io"
+baseurl: "/seanpark"   # repo name; set to "" if you rename the repo to parksean7.github.io
+
+author:
+  name: Sean Park
+  role: MS/PhD Student in Artificial Intelligence
+  affiliation: ""    # e.g. "Your University"
+  # Leave any of these empty ("") to hide the link.
+  email: ""
+  github: parksean7
+  scholar: ""        # Google Scholar user id, e.g. "AbCdEfGhIjK"
+  twitter: ""        # handle without @
+  linkedin: ""       # profile slug
+  cv: ""             # e.g. /assets/cv.pdf
+
+# ------------------------------------------------------------------
+# Build settings. These work with GitHub Pages out of the box.
+# ------------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  math_engine: null   # math is rendered client-side by KaTeX
+permalink: /blog/:year/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

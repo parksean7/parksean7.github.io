@@ -1,0 +1,14 @@
+# Your publications. While this list is empty, the Papers page shows a
+# "coming soon" message. To add a paper, uncomment and edit the example.
+# Your name (site.author.name) is bolded automatically in the author list.
+#
+# - title: "An Example Paper Title"
+#   authors: "Your Name, Coauthor One, Coauthor Two"
+#   venue: "NeurIPS"
+#   year: 2027
+#   pdf: "/assets/papers/example.pdf"   # optional
+#   arxiv: "2701.00001"                 # optional
+#   code: "https://github.com/..."      # optional
+#   project: ""                         # optional
+
+[]
