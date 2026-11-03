@@ -165,10 +165,10 @@ Moses used the economic value of infrastructure to cultivate support for further
 
 ## Conclusion: The Architecture of Getting Things Done
 
-Changing the economics makes a project viable. Reducing external dependencies makes it executable. Building a self-reinforcing system makes success repeatable.
+When a difficult project stalls, the natural response is to focus on the obstacle directly ahead: raise more money, develop better technology, or find a way around the next approval. These efforts may be necessary, but they can leave the underlying problem untouched. Money, technology, and organizational authority are not independent obstacles. How they interact can determine whether a project moves forward at all.
 
-Yet Moses’s story reveals a tension at the heart of this approach: the very mechanisms that made him so effective at getting things built also made him extraordinarily difficult to hold accountable. Concentrating financial resources and political influence allowed him to overcome bureaucratic paralysis, but it also weakened the public’s ability to challenge his decisions.
+Moses reorganized the financing and authority behind public construction. Musk reshaped the relationship between engineering, manufacturing, and demand. Neither treated the existing structure of the problem as fixed. By changing how its parts worked together, they changed what could be accomplished. Their achievements were not simply the result of solving individual problems, but of redesigning the conditions under which those problems arose.
 
-Removing obstacles to execution is not always the same as removing obstacles to progress. Some constraints reflect needless inefficiency. Others protect the interests of people affected by what gets built. The ability to get things done does not, by itself, establish that they should be done.
+This distinction changes how we should think about ambitious projects. We tend to judge them by their visible results: the bridges completed, the rockets launched, the infrastructure brought into service. Yet those achievements tell only part of the story. Behind them are systems of financing, coordination, production, and incentives that determine what can be built in the first place. Such systems can also concentrate power in ways that deserve scrutiny, as Moses's career demonstrates. But to understand how extraordinary projects become possible, we must look beyond the projects themselves.
 
-**The real question is not simply how to build the impossible, but how to build a system that makes the impossible possible again and again.**
+**Sometimes the most consequential innovation is not what gets built, but the system that makes building it possible.**
