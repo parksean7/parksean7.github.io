@@ -10,7 +10,7 @@ thumbnail: /assets/img/thumbnails/how-the-impossible-gets-built.jpg
 
 In the early twentieth century, New York City was among the wealthiest and most dynamic cities in the world. Yet it repeatedly struggled to build the infrastructure its growing population needed. Traffic congestion was worsening, public spaces were increasingly scarce, and the need for new bridges, roads, and parks was obvious. **The problem wasn’t knowing what needed to be built. It was figuring out how to get it built.**
 
-Building even a single bridge required enormous capital, government approvals, and land from often unwilling owners. Investors needed confidence in future revenues, yet those revenues would not exist until the infrastructure was built. Government approval meant little if landowners refused to cooperate. Decisions that made sense to individual stakeholders could collectively prevent projects that would benefit society as a whole. The greatest barriers to ambitious projects were not always technological. Financial, legal, political, and organizational constraints could reinforce one another until a project became all but impossible to execute.
+Building even a single bridge required enormous capital, government approvals, and land from often unwilling owners. Investors needed confidence in future revenues, yet those revenues would not exist until the infrastructure was built. Government approval meant little if landowners refused to cooperate. Decisions that made sense to individual stakeholders could collectively prevent projects that would benefit society as a whole. Financial, legal, political, and organizational constraints reinforced one another, making even technically feasible projects extraordinarily difficult to execute.
 
 <!-- essay-visual:moses-portrait:start -->
 <figure class="essay-visual">
@@ -19,7 +19,7 @@ Building even a single bridge required enormous capital, government approvals, a
 </figure>
 <!-- essay-visual:moses-portrait:end -->
 
-Robert Moses never won a single election, yet he built more than 1,000 kilometers of roads and numerous bridges across the New York metropolitan area, effectively redrawing the map of modern New York. What set him apart was not his engineering expertise, but his ability to overcome the financial, legal, and political obstacles that had stalled ambitious projects for decades. He found ways to turn plans that had languished on drawing boards into bridges, highways, and parks.
+Robert Moses never won a single election, yet he built more than 1,000 kilometers of roads and numerous bridges across the New York metropolitan area, effectively redrawing the map of modern New York. His distinctive skill lay in navigating the financial, legal, and political obstacles that had stalled ambitious projects for decades. He found ways to turn plans that had languished on drawing boards into bridges, highways, and parks.
 
 <!-- essay-visual:musk-portrait:start -->
 <figure class="essay-visual">
@@ -28,7 +28,7 @@ Robert Moses never won a single election, yet he built more than 1,000 kilometer
 </figure>
 <!-- essay-visual:musk-portrait:end -->
 
-Decades later, a similar challenge emerged in a very different industry. Humanity had been launching rockets into space for decades, and electric vehicles were hardly a new invention. Yet rockets remained extraordinarily expensive to launch, while high battery costs and limited production capacity kept electric cars from reaching the mass market. SpaceX pursued reusable rockets to change the economics of spaceflight. Tesla worked to lower battery and manufacturing costs while scaling production. With Starlink, SpaceX began building a business that could generate demand for its own launch services.
+Decades later, a similar challenge emerged in a very different industry. Humanity had been launching rockets into space for decades, and electric vehicles were hardly a new invention. Yet rockets remained extraordinarily expensive to launch, while high battery costs and limited production capacity kept electric cars from reaching the mass market. SpaceX pursued reusable rockets to change the economics of spaceflight and later developed Starlink to create recurring demand for its own launch services. Tesla worked to lower battery and manufacturing costs while scaling production.
 
 Moses and Musk faced fundamentally different obstacles. Moses had to navigate fragmented political authority and competing interests. Musk confronted technological uncertainty, high production costs, and the challenges of scaling complex systems. **Rather than accepting the constraints that made their projects seem impossible, they sought to redesign those constraints themselves.**
 
@@ -42,7 +42,7 @@ Three principles emerge from their stories:
 
 When Robert Moses took control of the Triborough Bridge Authority in 1934, construction had stalled amid the Great Depression. The need for a direct connection between Manhattan, Queens, and the Bronx was clear, and the engineering was within reach. What New York lacked was the money to finish it.
 
-Rather than relying entirely on the city’s limited borrowing capacity, Moses combined federal construction funding with bonds backed by future toll revenues. Once completed, the bridge would generate toll revenues that could support the bonds issued to finance its construction. The Triborough Bridge opened in 1936.
+Rather than relying entirely on the city’s limited borrowing capacity, Moses combined federal construction funding with bonds backed by future toll revenues. Those revenues would repay the debt once the bridge opened. The Triborough Bridge opened in 1936.
 
 <!-- essay-visual:triborough-1937:start -->
 <figure class="essay-visual">
@@ -74,7 +74,7 @@ After years of testing and failed landing attempts, SpaceX successfully landed a
 
 Musk estimated that the first stage accounted for roughly 70% of the cost of a new Falcon 9 rocket. By 2020, he was citing refurbishment costs of around $1 million per booster and a best-case marginal launch cost of approximately $15 million, excluding overhead. Although these were Musk’s estimates rather than independently verified costs, they illustrate the economic logic behind reuse: the savings depend not simply on recovering a booster, but on flying it again at a fraction of the cost of building a replacement.
 
-As boosters began flying repeatedly, reuse became part of SpaceX’s regular launch operations. SpaceX had turned what was once a recurring expense into a reusable asset.
+As boosters began flying repeatedly, reuse became part of SpaceX’s regular launch operations.
 
 **One turned future revenues into present financing. The other turned expendable hardware into reusable capital.**
 
@@ -82,7 +82,7 @@ As boosters began flying repeatedly, reuse became part of SpaceX’s regular lau
 
 Securing the necessary resources does not guarantee that a project can be executed. Progress can still stall when critical decisions lie in someone else’s hands.
 
-Early in his career, Robert Moses devoted himself to reforming New York’s civil service system. His carefully designed proposals threatened the political patronage networks that controlled government appointments and were ultimately defeated. The experience taught him that even well-designed reforms meant little without the authority to implement them. He would later acquire that authority through the public agencies he came to control.
+Early in his career, Robert Moses devoted himself to reforming New York’s civil service system. His carefully designed proposals threatened the political patronage networks that controlled government appointments and were ultimately defeated. The experience taught him that even well-designed reforms meant little without the power to carry them out. He would later gain that kind of power through the public agencies he came to control.
 
 <!-- essay-visual:moses-integration:start -->
 <figure class="essay-visual essay-visual--chart">
@@ -94,7 +94,7 @@ In 1934, he became New York City’s Parks Commissioner while also taking contro
 
 He applied the same instinct for integration to the organization of work itself. When Moses took charge of New York City’s parks in 1934, tens of thousands of federally funded relief workers were already available. Yet many lacked proper tools, supervision, and clear assignments. Moses brought in experienced administrators and engineers, reorganized the work, and completed approximately 1,700 park renovation projects within months. His achievement was to organize resources that were already available into an effective construction operation.
 
-For Elon Musk, the obstacle lay in the aerospace supply chain. When Musk first explored entering the space industry, he considered buying existing rockets. But the prices led him to question the industry's cost structure. In a 2012 interview with *WIRED*, he recalled calculating that the raw materials in a rocket accounted for only about 2% of its selling price. The remaining cost was not simply waste: rockets require sophisticated engineering, manufacturing, and testing. But the calculation raised a more interesting question: how much of the price reflected unavoidable technical complexity, and how much reflected the way the industry was organized?
+Musk encountered a different kind of dependency when he first explored entering the space industry. After considering the purchase of existing rockets, he began questioning the aerospace industry's cost structure. In a 2012 interview with *WIRED*, he recalled calculating that the raw materials in a rocket accounted for only about 2% of its selling price. The remaining cost was not simply waste: rockets require sophisticated engineering, manufacturing, and testing. But the calculation raised a more interesting question: how much of the price reflected unavoidable technical complexity, and how much reflected the way the industry was organized?
 
 <!-- essay-visual:spacex-integration:start -->
 <figure class="essay-visual essay-visual--chart">
@@ -122,7 +122,7 @@ Across these businesses, the strategy was not to manufacture everything or elimi
 
 ## 3. Build Systems in Which Each Success Makes the Next One Easier
 
-Gaining control over critical dependencies helped Moses and Musk execute ambitious projects. Their more enduring achievement was to make each success strengthen the system responsible for the next. The Triborough Bridge, for example, generated toll revenues that gave Moses the financial means to undertake further construction. Yet money alone cannot explain how he became one of the most powerful figures in New York.
+Gaining control over critical dependencies helped Moses and Musk execute ambitious projects. But the systems they built also changed what they could accomplish next. The Triborough Bridge, for example, generated toll revenues that gave Moses the financial means to undertake further construction. Yet money alone cannot explain how he became one of the most powerful figures in New York.
 
 Moses recognized that the money generated by public works could do more than finance construction: it could also cultivate political support. Every major infrastructure project created economic opportunities. Banks earned fees from underwriting bonds and managing accounts, construction companies received contracts, labor unions gained jobs, and lawyers and insurance brokers collected fees and commissions.
 
@@ -132,7 +132,7 @@ Moses recognized that the money generated by public works could do more than fin
 </figure>
 <!-- essay-visual:moses-political-flywheel:end -->
 
-Moses controlled access to many of these opportunities, and Robert Caro documents how deliberately he used that control. At one point, Triborough was distributing roughly $1 million annually in public relations retainers, legal fees, and insurance commissions, much of it directed toward politically connected individuals. In 1948, Triborough deposited approximately $15 million in non-interest-bearing accounts at Federation Bank, an institution connected to political power broker Tom Shanahan. According to Caro, the bank held roughly $35 million in deposits at the time. The arrangement provided a substantial financial benefit to an institution with valuable political connections.
+Moses controlled access to many of these opportunities, and Robert Caro documents how deliberately he used that control. At one point, Triborough was distributing roughly $1 million annually in public relations retainers, legal fees, and insurance commissions, much of it directed toward politically connected individuals. In 1948, Triborough deposited approximately $15 million in non-interest-bearing accounts at Federation Bank, an institution connected to political power broker Tom Shanahan. According to Caro, the bank held roughly $35 million in deposits at the time. By placing these deposits at Federation Bank, Moses provided a substantial financial benefit to an institution with valuable political connections.
 
 Moses did not need to demand an explicit favor in exchange for every contract or deposit. He cultivated a network in which supporting his projects and benefiting from his spending went hand in hand.
 
@@ -147,7 +147,7 @@ Banks had reasons to preserve their relationships with him. Contractors with exp
 
 During a dispute over federal funding for Lincoln Center, Moses drew on influential bankers, labor leaders, and other prominent figures who pressured officials in Washington. The federal government ultimately accepted a compromise that allowed the project to move forward. The episode demonstrated how Moses could mobilize relationships cultivated through public construction to exert political pressure beyond the formal authority of his agencies. **He had turned the act of building into a means of acquiring the power to build more.**
 
-SpaceX developed a different kind of self-reinforcing system. Reusable rockets made frequent launches more economically practical, but reusability alone could not guarantee sufficient demand. The economics improved when the same hardware could serve more missions, creating an incentive to launch more frequently. Starlink offered SpaceX something unusual: a large and recurring source of demand for its own rockets.
+SpaceX developed a different kind of self-reinforcing system. Reusing a booster could lower the cost of flying it again, but the company still needed enough missions to take advantage of that capability. Starlink supplied recurring demand for SpaceX’s own rockets.
 
 Building a global satellite internet network requires launching thousands of satellites, replacing aging spacecraft, and continually expanding capacity. For a company dependent on outside launch providers, this would mean enormous costs and exposure to someone else’s launch schedule. SpaceX could instead use its own launch vehicles to deploy and maintain the network.
 
@@ -161,7 +161,7 @@ Reusable Falcon 9 boosters enabled repeated satellite deployments, while Starlin
 
 Frequent launches gave SpaceX more opportunities to refine booster inspection and refurbishment, improve launch operations, and spread fixed infrastructure costs across more missions. Starlink also created a financial feedback loop: as its subscriber base expanded, service revenue could support further investment in the satellite network and SpaceX’s broader operations. SpaceX had built a business that depended on its launch capabilities while generating demand and revenue that could help sustain them.
 
-Moses used the economic value created by infrastructure to cultivate support for further construction. SpaceX used its launch capabilities to build Starlink, then used Starlink to generate demand and revenue that could sustain further launches. In both cases, the results of one project strengthened the system responsible for the next. **The most powerful projects do more than achieve their immediate goals. They expand the capacity to pursue what comes after.**
+Moses used the economic value of infrastructure to cultivate support for further construction. SpaceX used its launch capabilities to build Starlink, which in turn generated demand and revenue for further launches. In both cases, each achievement expanded what they could accomplish next.
 
 ## Conclusion: The Architecture of Getting Things Done
 
