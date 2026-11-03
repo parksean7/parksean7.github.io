@@ -2,7 +2,7 @@
 layout: post
 title: "How the Impossible Gets Built"
 subtitle: "Why the hardest projects demand more than solving the problems in front of us."
-date: 2026-11-01
+date: 2026-11-04 00:00:00 +0900
 tags: []
 toc: true
 thumbnail: /assets/img/thumbnails/how-the-impossible-gets-built.jpg
