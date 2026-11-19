@@ -13,7 +13,9 @@ title: About
 </section>
 
 Hi, I'm Sean. I'm studying Electrical and Computer Engineering at Seoul National University,
-graduating in February 2027 and beginning an MS/PhD in AI in March.
+graduating in February 2027. In March, I'll join [M.IN.D Lab](http://mindlab-snu.notion.site/),
+led by [Prof. Taesup Moon](https://scholar.google.com/citations?user=lQlioBoAAAAJ&hl=en),
+as an MS/PhD student in Artificial Intelligence.
 
 I write about my research, projects, and ideas that help me make sense of the world.
 
