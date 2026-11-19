@@ -34,7 +34,13 @@
 </head>
 <body>
   <header class="site-header">
+    {% comment %} Home button logo: the image in assets/img/logo/. It already contains the name, so no text is added. {% endcomment %}
+    {% assign site_logo = site.static_files | where_exp: "f", "f.path contains '/assets/img/logo/'" | first %}
+    {% if site_logo %}
+    <a class="site-title has-logo" href="{{ '/' | relative_url }}"><img class="site-logo" src="{{ site_logo.path | relative_url }}?v={{ v }}" alt="{{ site.author.name }}"></a>
+    {% else %}
     <a class="site-title" href="{{ '/' | relative_url }}">{% if site_icon %}<img class="site-icon" src="{{ site_icon.path | relative_url }}" alt="">{% endif %}<span>{{ site.author.name }}</span></a>
+    {% endif %}
     <nav>
       {% assign path = page.url %}
       <a href="{{ '/' | relative_url }}" {% if path == '/' %}class="active"{% endif %}>About</a>
