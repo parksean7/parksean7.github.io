@@ -3,14 +3,18 @@
 :root {
   --page-width: 880px;   /* overall page width on desktop */
 
-  /* Color system */
-  --bg: #FAF9F6;            /* Warm White: page background */
-  --text: #242628;          /* Charcoal: body text, headings, name */
-  --muted: #777873;         /* Stone Gray: dates, affiliations, metadata */
-  --line: #E7E5E0;          /* Warm Gray: dividers and borders */
-  --accent: #243C58;        /* Yankee Navy: links, selected states */
-  --accent-hover: #172B43;  /* Darker navy: hover and active */
-  --logo: #0B263F;          /* Logo navy, sampled from the shield logo: home button name */
+  /* Color system (site-palette): taken from the burgundy crest logo */
+  --bg: #FAF9F6;            /* Ivory: page background */
+  --text: #262326;          /* Charcoal with a faint plum warmth: body text, headings */
+  --muted: #756D70;         /* Warm rose-gray: dates, affiliations, metadata */
+  --line: #EAE4E2;          /* Warm line: dividers and borders */
+  --accent: #7A1F3D;        /* Crest burgundy: inline links, current menu, active TOC item */
+  --accent-hover: #5C1A2B;  /* Bordeaux: hover and active */
+  --button: #B9727E;        /* Rosewood: Email / GitHub link buttons only */
+  --button-hover: #9C5866;  /* Darker rosewood: button hover */
+  --focus: #4A2B6E;         /* Crest purple: keyboard focus outline */
+  --selection: color-mix(in srgb, var(--button) 18%, var(--bg));  /* pale pink text selection */
+  --logo: var(--accent);    /* text home button (only used when no logo image is set) */
   --code-bg: color-mix(in srgb, var(--line) 45%, var(--bg));  /* tint of the border color, no new hue */
 
   --sans: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -19,14 +23,18 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    /* Dark counterparts: navy is lightened so links stay readable. */
-    --bg: #15171A;
-    --text: #E6E4DF;
-    --muted: #9A9B95;
-    --line: #2C2F33;
-    --accent: #A9BCD3;
-    --accent-hover: #CDD8E6;
-    --logo: var(--text);    /* logo navy is unreadable on a dark background */
+    /* Dark counterparts: plum-tinted black; burgundy and rosewood lightened to stay readable. */
+    --bg: #17141A;
+    --text: #ECE6E8;
+    --muted: #A39A9E;
+    --line: #2E2830;
+    --accent: #D9A3AC;
+    --accent-hover: #ECC6CC;
+    --button: #D49AA4;
+    --button-hover: #E8BAC2;
+    --focus: #B9A3D6;
+    --selection: color-mix(in srgb, var(--button) 22%, var(--bg));
+    --logo: var(--text);
     --code-bg: color-mix(in srgb, var(--line) 50%, var(--bg));
   }
 }
@@ -49,8 +57,8 @@ body {
 
 a { color: var(--accent); text-decoration: none; }
 a:hover, a:active { color: var(--accent-hover); text-decoration: underline; text-underline-offset: 3px; }
-a:focus-visible { outline: 1px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
-::selection { background: color-mix(in srgb, var(--accent) 16%, var(--bg)); }
+a:focus-visible { outline: 1px solid var(--focus); outline-offset: 2px; border-radius: 2px; }
+::selection { background: var(--selection); }
 
 h1, h2, h3 { font-family: var(--sans); font-weight: 600; line-height: 1.3; letter-spacing: -0.01em; }
 h1 { font-size: 1.6rem; margin: 0 0 1rem; }
@@ -99,7 +107,8 @@ h3 { font-size: 1rem; margin: 2rem 0 0.5rem; }
 .avatar { display: block; width: 113px; height: auto; flex-shrink: 0; }
 .subtitle { margin: 0.2rem 0; color: var(--muted); font-family: var(--sans); font-size: 0.85rem; }
 .links { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.85rem; }
-.links a { margin-right: 0.9rem; }
+.links a { margin-right: 0.9rem; color: var(--button); }
+.links a:hover, .links a:active { color: var(--button-hover); }
 
 @media (max-width: 520px) {
   .intro { gap: 1.25rem; margin-bottom: 2rem; }
