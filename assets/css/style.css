@@ -4,7 +4,7 @@
   --page-width: 880px;   /* overall page width on desktop */
 
   /* Color system: main Midnight Violet, supporting Iris Grey */
-  --bg: #FAF9F6;            /* Ivory: page background */
+  --bg: #FCFBF8;            /* Ivory paper: page background */
   --text: #262326;          /* Charcoal: body text, headings */
   --muted: #756D70;         /* Warm gray: dates, affiliations, metadata */
   --line: #EAE4E2;          /* Warm line: dividers and borders */
